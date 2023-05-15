@@ -1,0 +1,282 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+:root {
+    --scss: #32cd32 ;
+    --error:#f40 ;
+    --dis: rgba(0,0,0,0.5);
+    --orange: #ff9500;
+    --white-color: #fff;
+    --black-color: #333;
+    --light-color: rgba(0, 0, 0, .3);
+    --blue: #2e2866;
+    --white: rgb(234, 235, 224);
+    --white2: rgb(112, 27, 12);
+    --gray: #f5f5f5;
+    --black1: #222;
+    --black2: #999;
+    --chart : rgba(207, 207, 198, 0.301);
+
+    --br_black2: solid 3px var(--black2);
+    --br_white: solid 3px var(--white);
+    --br_blue: solid 3px var(--blue);
+
+    --bsh1: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    --bsh2: rgb(38, 57, 77) 0px 20px 30px -10px;
+    --bsh3: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    --bsh4: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+    --trans: translateX(-6px) translateY(-80px) rotateX(-2deg) rotateZ(34deg) skew(32deg, -44deg) scale(0.7);
+
+}
+
+  
+
+
+/* scrollbar */
+::-webkit-scrollbar{
+    background-color: var(--white);
+    border-radius: 49px;
+    -webkit-border-radius: 49px;
+    -moz-border-radius: 49px;
+    -ms-border-radius: 49px;
+    -o-border-radius: 49px;
+    /* /*height: 10vh; */
+}
+
+::-webkit-scrollbar-trach{
+    background-color: var(--orange);
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: var(--blue);
+    border-radius: 49px;
+    -webkit-border-radius: 49px;
+    -moz-border-radius: 49px;
+    -ms-border-radius: 49px;
+    -o-border-radius: 49px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background-color: var(--blue);
+}
+
+
+.o-f-a{
+    overflow-y: auto;
+    overflow-x: hidden;
+
+}
+
+
+
+.z-in{
+z-index: 55;
+}
+
+
+
+
+
+
+.t-a-c{
+    text-align: center;
+}
+
+.tr-sk{
+    transform: skewX(13deg);
+    -webkit-transform: skewX(13deg);
+    -moz-transform: skewX(13deg);
+    -ms-transform: skewX(13deg);
+    -o-transform: skewX(13deg);
+}
+
+.o-f-x-h{
+    overflow-x: hidden;
+}
+
+.o-f-y-h{
+    overflow-x: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ***************************************** Start Class pup Root ********************************************** */
+
+.none {
+    display: none;
+}
+
+
+
+
+
+
+.vio {
+    position: fixed;
+    z-index: 9999900000000000000000000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    overflow: auto;
+    flex-direction: column;
+    top: 1rem;
+    left: 1rem;
+    bottom: 0rem;
+    right: 1rem;
+    overflow-y: hidden;
+    overflow-x: hidden;
+
+}
+
+.Down {
+    position: fixed;
+    bottom: 4vh;
+    left: 0;
+    min-width: 400px;
+    max-width: 400px;
+    min-height: 30px;
+    max-height: 30px;
+    border-radius: 49px;
+    padding: 5px;
+}
+
+.white {
+    background-color: var(--white);
+
+}
+
+.blue {
+    background-color: var(--white);
+    z-index: 56;
+}
+.def-input{
+    border: none; 
+    
+}
+.absolute {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+
+
+    display: grid;
+    grid-template-columns: 1.2fr repeat(3, 1fr) 1.5fr;
+    grid-template-rows: 0.3fr repeat(4, 1fr);
+    grid-column-gap: 18px;
+    grid-row-gap: 18px;
+}
+
+/* ***************************************** Start Class pup Root ********************************************** */
+
+
+/* ***************************************** Start Class Text Root ******************************************** */
+.texts22 {
+    color: var(--blue);
+    padding: 20px;
+    width: 98%;
+    height: auto;
+    text-align: justify;
+    transition: all .5s;
+}
+
+.texts22:hover {
+    color: var(--master2);
+    font-size: 20px;
+}
+
+.ov-y-auto {
+    overflow-y: auto;
+    height: 100vh;
+}
+
+.outline-color-none {
+    outline-color: none;
+}
+
+/* ***************************************** End Class Text Root ******************************************** */
+
+
+/* ***************************************** Start margin  ******************************************** */
+
+
+
+
+
+/* Start before and after */
+
+.notification::before {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    right: -5px;
+    top: -5px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+/* End before and after */
+
+
+.centerabs{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 50%;
+    border: solid 1px var(--blue);
+    border-radius: 10px;
+    transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -o-transform: translateX(-50%) translateY(-50%);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
+.home-cover{
+    background-attachment: fixed;
+}
+
+.box-home{
+    margin-top: 40vh;
+    opacity: 0.7;
+
+    background-color: var(--white);
+    border-right: var(--orange) 10px solid;
+    border-radius: 10px 10px 10px 60px;
+    -webkit-border-radius: 10px 10px 10px 60px;
+    -moz-border-radius: 10px 10px 10px 60px;
+    -ms-border-radius: 10px 10px 10px 60px;
+    -o-border-radius: 10px 10px 10px 60px;
+}
+
+.box-home:hover{
+    opacity: 1;
+}

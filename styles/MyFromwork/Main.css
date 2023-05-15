@@ -1,0 +1,363 @@
+@media (min-width: 992px) {
+  .flixnone {
+    display: flex;
+  }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+  .flixnone a {
+    font-size: 0.9rem;
+  }
+}
+
+
+
+@media (max-width: 1441px) {
+  .flixnone {
+    display: none;
+  }
+}
+
+
+.circles {
+  position: fixed;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+  z-index: 9999;
+  /* background-color: var(--orange); */
+
+}
+
+.circle {
+  border-radius: 50%;
+  border:solid 1px gray;
+  margin: 10px auto;
+  cursor: pointer;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  transition: all 3s;
+  -webkit-transition: all 3s;
+  -moz-transition: all 3s;
+  -ms-transition: all 3s;
+  -o-transition: all 3s;
+}
+
+.circle:hover{
+  background-color: var(--blue);
+
+
+}
+
+
+/* @media screen and (max-width: 768px) {
+  .circles {
+    display: none;
+  }
+} */
+
+
+
+.modalPup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  width: 50%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 10px;
+  z-index: 9999;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  display: none;
+}
+
+.modalPup.active {
+  display: block;
+}
+
+
+
+.navbar{
+position: fixed;
+margin: 0 !important;
+padding: 0;
+top: 0;
+
+}
+.box-staps{
+position: relative;
+z-index: 5;
+}
+.box-staps::before{
+    content: "";
+    background:var(--orange);
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    z-index: -5;
+
+
+}
+.MsgTopLeft{
+    position: fixed;
+    z-index: 600000;
+    top: 10px;
+    right: 10px;
+    width: 30%;
+ }
+.text-dir-right{
+    text-decoration: right;
+}
+
+.div-hero{
+    background-attachment: fixed;
+}
+.ArrowLeftSlider{
+    position: absolute;
+    top: 50%;
+    left: -15vh;
+    z-index: 5555;
+}
+
+.active__item{
+    display: block;
+}
+.Arrowiconsstudent{
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+
+}
+.div-content{
+    z-index: 1;
+}
+
+.boxostap{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.border-right-in-icons{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border: 3 px solid var(--orange);
+    right: 0;
+    height: 100vh;
+}
+  
+
+.pad-1{padding: 1px;}
+.pad-2{padding: 2px;}
+.pad-3{padding: 3px;}
+.pad-4{padding: 4px;}
+.pad-5{padding: 5px;}
+.pad-6{padding: 6px;}
+.pad-7{padding: 7px;}
+.pad-8{padding: 8px;}
+.pad-9{padding: 9px;}
+.pad-10{padding: 10px;}
+
+
+.pad-left-1{padding-left: 1px;}
+.pad-left-2{padding-left: 2px;}
+.pad-left-3{padding-left: 3px;}
+.pad-left-4{padding-left: 4px;}
+.pad-left-5{padding-left: 5px;}
+.pad-left-6{padding-left: 6px;}
+.pad-left-7{padding-left: 7px;}
+.pad-left-8{padding-left: 8px;}
+.pad-left-9{padding-left: 9px;}
+.pad-left-10{padding-left: 10px;}
+
+
+.pad-right-1{padding-right: 1px;}
+.pad-right-2{padding-right: 2px;}
+.pad-right-3{padding-right: 3px;}
+.pad-right-4{padding-right: 4px;}
+.pad-right-5{padding-right: 5px;}
+.pad-right-6{padding-right: 6px;}
+.pad-right-7{padding-right: 7px;}
+.pad-right-8{padding-right: 8px;}
+.pad-right-9{padding-right: 9px;}
+.pad-right-10{padding-right: 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+.ball {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  /* أضف خصائص أخرى لتحديد حجم ولون الكرة */
+  animation: water 2s infinite alternate ease-in-out;
+}
+
+@keyframes water {
+  from {
+    transform: translateY(0);
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+}
+  to {
+    transform: translateY(-10vh);
+    -webkit-transform: translateY(-10vh);
+    -moz-transform: translateY(-10vh);
+    -ms-transform: translateY(-10vh);
+    -o-transform: translateY(-10vh);
+}
+}
+
+.boxv {
+  display: block;
+  position: relative;
+  background: linear-gradient(180deg, #e5f2fb 0%, #bfe1f7 50%, #bfe1f7 100%);
+  animation: water-colors 4s infinite alternate ease-in-out;
+  -webkit-animation: water-colors 4s infinite alternate ease-in-out;
+}
+
+.boxvv {
+    display: block;
+    position: relative;
+    background: linear-gradient(180deg, #fbf9e5 0%, #f7f3bf 50%, #f7e8bf 100%);
+    animation: water-colors 5s infinite alternate ease-in-out;
+    -webkit-animation: water-colors 5s infinite alternate ease-in-out;
+}
+
+@keyframes water-colors {
+  from {
+    background-position-y: 0;
+  }
+  to {
+    background-position-y: 10vh;
+  }
+}
+
+
+
+.o-f-h{
+  overflow-y: hidden !important;
+  overflow-x: hidden !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#chat-message-input {
+  margin-right: -5px;
+}
+.chat-messages {
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 138px);
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  transition: all 0.5s;
+}
+.chat-message-left,
+.chat-message-right {
+  display: flex;
+  flex-shrink: 0;
+}
+.chat-message-left {
+  margin-right: auto;
+}
+.chat-message-right {
+  flex-direction: row-reverse;
+  margin-left: auto;
+}
+
+/* typing bubble */
+.chat-bubble {
+  padding: 16px 28px;
+  -webkit-border-radius: 20px;
+  -webkit-border-bottom-left-radius: 2px;
+  -moz-border-radius: 20px;
+  -moz-border-radius-bottomleft: 2px;
+  border-radius: 20px;
+  border-bottom-left-radius: 2px;
+  display: inline-block;
+}
+.typing {
+  align-items: center;
+  display: flex;
+  height: 17px;
+}
+.typing .dot {
+  animation: mercuryTypingAnimation 1s infinite ease-in-out;
+  border-radius: 50%;
+  height: 7px;
+  margin-right: 4px;
+  vertical-align: middle;
+  width: 7px;
+  display: inline-block;
+}
+.typing .dot:nth-child(1) {
+  animation-delay: 200ms;
+}
+.typing .dot:nth-child(2) {
+  animation-delay: 300ms;
+}
+.typing .dot:nth-child(3) {
+  animation-delay: 400ms;
+}
+.typing .dot:last-child {
+  margin-right: 0;
+}
+
+@keyframes mercuryTypingAnimation {
+  0% {
+    transform: translateY(0px);
+    background-color: #ffc003;
+  }
+  28% {
+    transform: translateY(-7px);
+    background-color: #e4bf52;
+  }
+  44% {
+    transform: translateY(0px);
+    background-color: #dac587;
+  }
+}

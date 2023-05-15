@@ -1,0 +1,55 @@
+/* ***************************************************************************** Start border ***************************************************************** */
+
+.bw-1{border: 1px solid var(--white);} .bbw-1{border-bottom: 1px solid var(--white);} .btw-1{border-top: 1px solid var(--white);} .blw-1{border-left: 1px solid var(--white);}   .brw-1{border-right: 1px solid var(--white);}
+.bw-2{border: 2px solid var(--white);} .bbw-2{border-bottom: 2px solid var(--white);} .btw-2{border-top: 2px solid var(--white);} .blw-2{border-left: 2px solid var(--white);}   .brw-2{border-right: 2px solid var(--white);}
+.bw-3{border: 3px solid var(--white);} .bbw-3{border-bottom: 3px solid var(--white);} .btw-3{border-top: 3px solid var(--white);} .blw-3{border-left: 3px solid var(--white);}   .brw-3{border-right: 3px solid var(--white);}
+.bw-4{border: 4px solid var(--white);} .bbw-4{border-bottom: 4px solid var(--white);} .btw-4{border-top: 4px solid var(--white);} .blw-4{border-left: 4px solid var(--white);}   .brw-4{border-right: 4px solid var(--white);}
+.bw-5{border: 5px solid var(--white);} .bbw-5{border-bottom: 5px solid var(--white);} .btw-5{border-top: 5px solid var(--white);} .blw-5{border-left: 5px solid var(--white);}   .brw-5{border-right: 5px solid var(--white);}
+.bw-6{border: 6px solid var(--white);} .bbw-6{border-bottom: 6px solid var(--white);} .btw-6{border-top: 6px solid var(--white);} .blw-6{border-left: 6px solid var(--white);}   .brw-6{border-right: 6px solid var(--white);}
+.bw-7{border: 7px solid var(--white);} .bbw-7{border-bottom: 7px solid var(--white);} .btw-7{border-top: 7px solid var(--white);} .blw-7{border-left: 7px solid var(--white);}   .brw-7{border-right: 7px solid var(--white);}
+.bw-8{border: 8px solid var(--white);} .bbw-8{border-bottom: 8px solid var(--white);} .btw-8{border-top: 8px solid var(--white);} .blw-8{border-left: 8px solid var(--white);}   .brw-8{border-right: 8px solid var(--white);}
+.bw-9{border: 9px solid var(--white);} .bbw-9{border-bottom: 9px solid var(--white);} .btw-9{border-top: 9px solid var(--white);} .blw-9{border-left: 9px solid var(--white);}   .brw-9{border-right: 9px solid var(--white);}
+
+.bb-1{border: 1px solid var(--blue);}  .bbb-1{border-bottom: 1px solid var(--blue);}   .btb-1{border-top: 1px solid var(--blue);} .blb-1{border-left: 1px solid var(--blue);}   .brb-1{border-right: 1px solid var(--blue);}
+.bb-2{border: 2px solid var(--blue);}  .bbb-2{border-bottom: 2px solid var(--blue);}   .btb-2{border-top: 2px solid var(--blue);} .blb-2{border-left: 2px solid var(--blue);}   .brb-2{border-right: 2px solid var(--blue);}
+.bb-3{border: 3px solid var(--blue);}  .bbb-3{border-bottom: 3px solid var(--blue);}   .btb-3{border-top: 3px solid var(--blue);} .blb-3{border-left: 3px solid var(--blue);}   .brb-3{border-right: 3px solid var(--blue);}
+.bb-4{border: 4px solid var(--blue);}  .bbb-4{border-bottom: 4px solid var(--blue);}   .btb-4{border-top: 4px solid var(--blue);} .blb-4{border-left: 4px solid var(--blue);}   .brb-4{border-right: 4px solid var(--blue);}
+.bb-5{border: 5px solid var(--blue);}  .bbb-5{border-bottom: 5px solid var(--blue);}   .btb-5{border-top: 5px solid var(--blue);} .blb-5{border-left: 5px solid var(--blue);}   .brb-5{border-right: 5px solid var(--blue);}
+.bb-6{border: 6px solid var(--blue);}  .bbb-6{border-bottom: 6px solid var(--blue);}   .btb-6{border-top: 6px solid var(--blue);} .blb-6{border-left: 6px solid var(--blue);}   .brb-6{border-right: 6px solid var(--blue);}
+.bb-7{border: 7px solid var(--blue);}  .bbb-7{border-bottom: 7px solid var(--blue);}   .btb-7{border-top: 7px solid var(--blue);} .blb-7{border-left: 7px solid var(--blue);}   .brb-7{border-right: 7px solid var(--blue);}
+.bb-8{border: 8px solid var(--blue);}  .bbb-8{border-bottom: 8px solid var(--blue);}   .btb-8{border-top: 8px solid var(--blue);} .blb-8{border-left: 8px solid var(--blue);}   .brb-8{border-right: 8px solid var(--blue);}
+.bb-9{border: 9px solid var(--blue);}  .bbb-9{border-bottom: 9px solid var(--blue);}   .btb-9{border-top: 9px solid var(--blue);} .blb-9{border-left: 9px solid var(--blue);}   .brb-9{border-right: 9px solid var(--blue);}
+
+.bo-1{border: 1px solid var(--orange);} .bbo-1{border-bottom: 1px solid var(--orange);}  .bto-1{border-top: 1px solid var(--orange);}  .blo-1{border-left: 1px solid var(--orange);}  .bro-1{border-right: 1px solid var(--orange);}     
+.bo-2{border: 2px solid var(--orange);} .bbo-2{border-bottom: 2px solid var(--orange);}  .bto-2{border-top: 2px solid var(--orange);}  .blo-2{border-left: 2px solid var(--orange);}  .bro-2{border-right: 2px solid var(--orange);}     
+.bo-3{border: 3px solid var(--orange);} .bbo-3{border-bottom: 3px solid var(--orange);}  .bto-3{border-top: 3px solid var(--orange);}  .blo-3{border-left: 3px solid var(--orange);}  .bro-3{border-right: 3px solid var(--orange);}     
+.bo-4{border: 4px solid var(--orange);} .bbo-4{border-bottom: 4px solid var(--orange);}  .bto-4{border-top: 4px solid var(--orange);}  .blo-4{border-left: 4px solid var(--orange);}  .bro-4{border-right: 4px solid var(--orange);}     
+.bo-5{border: 5px solid var(--orange);} .bbo-5{border-bottom: 5px solid var(--orange);}  .bto-5{border-top: 5px solid var(--orange);}  .blo-5{border-left: 5px solid var(--orange);}  .bro-5{border-right: 5px solid var(--orange);}     
+.bo-6{border: 6px solid var(--orange);} .bbo-6{border-bottom: 6px solid var(--orange);}  .bto-6{border-top: 6px solid var(--orange);}  .blo-6{border-left: 6px solid var(--orange);}  .bro-6{border-right: 6px solid var(--orange);}     
+.bo-7{border: 7px solid var(--orange);} .bbo-7{border-bottom: 7px solid var(--orange);}  .bto-7{border-top: 7px solid var(--orange);}  .blo-7{border-left: 7px solid var(--orange);}  .bro-7{border-right: 7px solid var(--orange);}     
+.bo-8{border: 8px solid var(--orange);} .bbo-8{border-bottom: 8px solid var(--orange);}  .bto-8{border-top: 8px solid var(--orange);}  .blo-8{border-left: 8px solid var(--orange);}  .bro-8{border-right: 8px solid var(--orange);}     
+.bo-9{border: 9px solid var(--orange);} .bbo-9{border-bottom: 9px solid var(--orange);}  .bto-9{border-top: 9px solid var(--orange);}  .blo-9{border-left: 9px solid var(--orange);}  .bro-9{border-right: 9px solid var(--orange);}     
+
+.b-scss-1{border: 1px solid var(--scss);} .bb-scss-1{border-bottom: 1px solid var(--scss);}  .bt-scss-1{border-top: 1px solid var(--scss);}  .bl-scss-1{border-left: 1px solid var(--scss);}  .br-scss-1{border-right: 1px solid var(--scss);}     
+.b-scss-2{border: 2px solid var(--scss);} .bb-scss-2{border-bottom: 2px solid var(--scss);}  .bt-scss-2{border-top: 2px solid var(--scss);}  .bl-scss-2{border-left: 2px solid var(--scss);}  .br-scss-2{border-right: 2px solid var(--scss);}     
+.b-scss-3{border: 3px solid var(--scss);} .bb-scss-3{border-bottom: 3px solid var(--scss);}  .bt-scss-3{border-top: 3px solid var(--scss);}  .bl-scss-3{border-left: 3px solid var(--scss);}  .br-scss-3{border-right: 3px solid var(--scss);}     
+.b-scss-4{border: 4px solid var(--scss);} .bb-scss-4{border-bottom: 4px solid var(--scss);}  .bt-scss-4{border-top: 4px solid var(--scss);}  .bl-scss-4{border-left: 4px solid var(--scss);}  .br-scss-4{border-right: 4px solid var(--scss);}     
+.b-scss-5{border: 5px solid var(--scss);} .bb-scss-5{border-bottom: 5px solid var(--scss);}  .bt-scss-5{border-top: 5px solid var(--scss);}  .bl-scss-5{border-left: 5px solid var(--scss);}  .br-scss-5{border-right: 5px solid var(--scss);}     
+.b-scss-6{border: 6px solid var(--scss);} .bb-scss-6{border-bottom: 6px solid var(--scss);}  .bt-scss-6{border-top: 6px solid var(--scss);}  .bl-scss-6{border-left: 6px solid var(--scss);}  .br-scss-6{border-right: 6px solid var(--scss);}     
+.b-scss-7{border: 7px solid var(--scss);} .bb-scss-7{border-bottom: 7px solid var(--scss);}  .bt-scss-7{border-top: 7px solid var(--scss);}  .bl-scss-7{border-left: 7px solid var(--scss);}  .br-scss-7{border-right: 7px solid var(--scss);}     
+.b-scss-8{border: 8px solid var(--scss);} .bb-scss-8{border-bottom: 8px solid var(--scss);}  .bt-scss-8{border-top: 8px solid var(--scss);}  .bl-scss-8{border-left: 8px solid var(--scss);}  .br-scss-8{border-right: 8px solid var(--scss);}     
+.b-scss-9{border: 9px solid var(--scss);} .bb-scss-9{border-bottom: 9px solid var(--scss);}  .bt-scss-9{border-top: 9px solid var(--scss);}  .bl-scss-9{border-left: 9px solid var(--scss);}  .br-scss-9{border-right: 9px solid var(--scss);}     
+
+
+.b-error-1{border: 1px solid var(--error);} .bb-error-1{border-bottom: 1px solid var(--error);}  .bt-error-1{border-top: 1px solid var(--error);}  .bl-error-1{border-left: 1px solid var(--error);}  .br-error-1{border-right: 1px solid var(--error);}     
+.b-error-2{border: 2px solid var(--error);} .bb-error-2{border-bottom: 2px solid var(--error);}  .bt-error-2{border-top: 2px solid var(--error);}  .bl-error-2{border-left: 2px solid var(--error);}  .br-error-2{border-right: 2px solid var(--error);}     
+.b-error-3{border: 3px solid var(--error);} .bb-error-3{border-bottom: 3px solid var(--error);}  .bt-error-3{border-top: 3px solid var(--error);}  .bl-error-3{border-left: 3px solid var(--error);}  .br-error-3{border-right: 3px solid var(--error);}     
+.b-error-4{border: 4px solid var(--error);} .bb-error-4{border-bottom: 4px solid var(--error);}  .bt-error-4{border-top: 4px solid var(--error);}  .bl-error-4{border-left: 4px solid var(--error);}  .br-error-4{border-right: 4px solid var(--error);}     
+.b-error-5{border: 5px solid var(--error);} .bb-error-5{border-bottom: 5px solid var(--error);}  .bt-error-5{border-top: 5px solid var(--error);}  .bl-error-5{border-left: 5px solid var(--error);}  .br-error-5{border-right: 5px solid var(--error);}     
+.b-error-6{border: 6px solid var(--error);} .bb-error-6{border-bottom: 6px solid var(--error);}  .bt-error-6{border-top: 6px solid var(--error);}  .bl-error-6{border-left: 6px solid var(--error);}  .br-error-6{border-right: 6px solid var(--error);}     
+.b-error-7{border: 7px solid var(--error);} .bb-error-7{border-bottom: 7px solid var(--error);}  .bt-error-7{border-top: 7px solid var(--error);}  .bl-error-7{border-left: 7px solid var(--error);}  .br-error-7{border-right: 7px solid var(--error);}     
+.b-error-8{border: 8px solid var(--error);} .bb-error-8{border-bottom: 8px solid var(--error);}  .bt-error-8{border-top: 8px solid var(--error);}  .bl-error-8{border-left: 8px solid var(--error);}  .br-error-8{border-right: 8px solid var(--error);}     
+.b-error-9{border: 9px solid var(--error);} .bb-error-9{border-bottom: 9px solid var(--error);}  .bt-error-9{border-top: 9px solid var(--error);}  .bl-error-9{border-left: 9px solid var(--error);}  .br-error-9{border-right: 9px solid var(--error);}     
+
+/* ***************************************************************************** End border ***************************************************************** */
+

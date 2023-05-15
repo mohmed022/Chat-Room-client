@@ -1,0 +1,22 @@
+.textstyle{
+    color: var(--black2);
+    padding: 10px;
+    margin: 10px;
+    font-size: 14;
+    font-weight: 600;
+}
+
+div .textstyle{
+    margin: 10px;
+}
+
+.t-a-l{
+    text-align: left;
+}
+.l-s{
+    letter-spacing: 2px;
+
+}
+.w-s{
+    word-spacing: 1px;
+}

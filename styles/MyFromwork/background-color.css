@@ -1,0 +1,78 @@
+/* Start color */
+.bg-fullscreen-img{
+   /* background-image: url('../img/launching-not-css.svg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed; */
+   background-color: #ccc;
+}
+
+
+.bg-w {
+    background-color: var(--white);
+}
+
+.bg-bl {
+    background-color: var(--blue);
+}
+
+.bg-or {
+    background-color: var(--orange);
+}
+.bg-dis{
+    background-color: var(--dis);
+}
+.bg-ccc{
+    background-color: #ccc;
+}
+.bg-shosh{
+    background-color: rgba(209, 200, 200, 0.596);
+    
+}
+
+
+.bg-scss{
+    background-color: var(--scss)
+    
+}
+
+.bg-error{
+    background-color: var(--error);
+    
+}
+
+
+.col-wh {
+    color: var(--white);
+}
+
+.col-black2 {
+    color: var(--black2);
+}
+
+.col-bl {
+    color: var(--blue);
+}
+
+.col-or {
+    color: var(--orange);
+}
+
+.col-dis{
+    color: var(--dis);
+}
+
+
+
+/* End color */
+
+
+/* .bg-img-1{
+    background-image: url(../img/bacground.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    background-position-x: center;
+    background-position-y: center;
+} */
+
+

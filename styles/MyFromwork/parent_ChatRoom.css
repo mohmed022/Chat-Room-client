@@ -1,0 +1,32 @@
+/* .parent {
+  display: grid;
+  grid-template-columns: 0.1fr 0.5fr 1fr 0.5fr 0.1fr;
+  grid-template-rows: 0.2fr repeat(3, 1fr) 0.2fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  }
+  
+  .div1 { grid-area: 1 / 1 / 2 / 6; }
+  .div2 { grid-area: 2 / 1 / 6 / 2; }
+  .div3 { grid-area: 2 / 5 / 6 / 6; }
+  .div4 { grid-area: 2 / 2 / 6 / 3; }
+  .div5 { grid-area: 2 / 4 / 6 / 5; }
+  .div6 { grid-area: 2 / 3 / 5 / 4; }
+  .div7 { grid-area: 5 / 3 / 6 / 4; } */
+
+
+
+
+
+  /* .parent {
+    display: grid;
+    grid-template-columns: 0.1fr repeat(4, 1fr);
+    grid-template-rows: 0.4fr repeat(3, 1fr) 0.4fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+    
+    .nav { grid-area: 1 / 1 / 2 / 6; }
+    .all_users { grid-area: 2 / 1 / 6 / 2; }
+    .formsend_messegeand_image { grid-area: 5 / 1 / 6 / 6; }
+    .body_Chat { grid-area: 2 / 2 / 5 / 6; } */

@@ -1,0 +1,478 @@
+
+
+
+
+.transX-0{ transform:translateX(0); -webkit-transform:translateX(0); -moz-transform:translateX(0); -ms-transform:translateX(0); -o-transform:translateX(0); }
+.transX--1{ transform:translateX(-1vh); -webkit-transform:translateX(-1vh); -moz-transform:translateX(-1vh); -ms-transform:translateX(-1vh); -o-transform:translateX(-1vh); }
+.transX--2{ transform:translateX(-2vh) ; -webkit-transform:translateX(-2vh) ; -moz-transform:translateX(-2vh) ; -ms-transform:translateX(-2vh) ; -o-transform:translateX(-2vh) ; }
+.transX--3{ transform:translateX(-3vh) ; -webkit-transform:translateX(-3vh) ; -moz-transform:translateX(-3vh) ; -ms-transform:translateX(-3vh) ; -o-transform:translateX(-3vh) ; }
+.transX--4{ transform:translateX(-4vh) ; -webkit-transform:translateX(-4vh) ; -moz-transform:translateX(-4vh) ; -ms-transform:translateX(-4vh) ; -o-transform:translateX(-4vh) ; }
+.transX--5{ transform:translateX(-5vh) ; -webkit-transform:translateX(-5vh) ; -moz-transform:translateX(-5vh) ; -ms-transform:translateX(-5vh) ; -o-transform:translateX(-5vh) ; }
+.transX--6{ transform:translateX(-6vh) ; -webkit-transform:translateX(-6vh) ; -moz-transform:translateX(-6vh) ; -ms-transform:translateX(-6vh) ; -o-transform:translateX(-6vh) ; }
+.transX--7{ transform:translateX(-7vh) ; -webkit-transform:translateX(-7vh) ; -moz-transform:translateX(-7vh) ; -ms-transform:translateX(-7vh) ; -o-transform:translateX(-7vh) ; }
+.transX--8{ transform:translateX(-8vh) ; -webkit-transform:translateX(-8vh) ; -moz-transform:translateX(-8vh) ; -ms-transform:translateX(-8vh) ; -o-transform:translateX(-8vh) ; }
+.transX--9{ transform:translateX(-9vh) ; -webkit-transform:translateX(-9vh) ; -moz-transform:translateX(-9vh) ; -ms-transform:translateX(-9vh) ; -o-transform:translateX(-9vh) ; }
+.transX--10{ transform:translateX(-10vh) ; -webkit-transform:translateX(-10vh) ; -moz-transform:translateX(-10vh) ; -ms-transform:translateX(-10vh) ; -o-transform:translateX(-10vh) ; }
+.transX--11{ transform:translateX(-11vh) ; -webkit-transform:translateX(-11vh) ; -moz-transform:translateX(-11vh) ; -ms-transform:translateX(-11vh) ; -o-transform:translateX(-11vh) ; }
+.transX--12{ transform:translateX(-12vh) ; -webkit-transform:translateX(-12vh) ; -moz-transform:translateX(-12vh) ; -ms-transform:translateX(-12vh) ; -o-transform:translateX(-12vh) ; }
+.transX--13{ transform:translateX(-13vh) ; -webkit-transform:translateX(-13vh) ; -moz-transform:translateX(-13vh) ; -ms-transform:translateX(-13vh) ; -o-transform:translateX(-13vh) ; }
+.transX--14{ transform:translateX(-14vh) ; -webkit-transform:translateX(-14vh) ; -moz-transform:translateX(-14vh) ; -ms-transform:translateX(-14vh) ; -o-transform:translateX(-14vh) ; }
+.transX--15{ transform:translateX(-15vh) ; -webkit-transform:translateX(-15vh) ; -moz-transform:translateX(-15vh) ; -ms-transform:translateX(-15vh) ; -o-transform:translateX(-15vh) ; }
+.transX--16{ transform:translateX(-16vh) ; -webkit-transform:translateX(-16vh) ; -moz-transform:translateX(-16vh) ; -ms-transform:translateX(-16vh) ; -o-transform:translateX(-16vh) ; }
+.transX--17{ transform:translateX(-17vh) ; -webkit-transform:translateX(-17vh) ; -moz-transform:translateX(-17vh) ; -ms-transform:translateX(-17vh) ; -o-transform:translateX(-17vh) ; }
+.transX--18{ transform:translateX(-18vh) ; -webkit-transform:translateX(-18vh) ; -moz-transform:translateX(-18vh) ; -ms-transform:translateX(-18vh) ; -o-transform:translateX(-18vh) ; }
+.transX--19{ transform:translateX(-19vh) ; -webkit-transform:translateX(-19vh) ; -moz-transform:translateX(-19vh) ; -ms-transform:translateX(-19vh) ; -o-transform:translateX(-19vh) ; }
+
+.transX--20{ transform:translateX(-20vh) ; -webkit-transform:translateX(-20vh) ; -moz-transform:translateX(-20vh) ; -ms-transform:translateX(-20vh) ; -o-transform:translateX(-20vh) ; }
+.transX--21{ transform:translateX(-21vh) ; -webkit-transform:translateX(-21vh) ; -moz-transform:translateX(-21vh) ; -ms-transform:translateX(-21vh) ; -o-transform:translateX(-21vh) ; }
+.transX--22{ transform:translateX(-22vh) ; -webkit-transform:translateX(-22vh) ; -moz-transform:translateX(-22vh) ; -ms-transform:translateX(-22vh) ; -o-transform:translateX(-22vh) ; }
+.transX--23{ transform:translateX(-23vh) ; -webkit-transform:translateX(-23vh) ; -moz-transform:translateX(-23vh) ; -ms-transform:translateX(-23vh) ; -o-transform:translateX(-23vh) ; }
+.transX--24{ transform:translateX(-24vh) ; -webkit-transform:translateX(-24vh) ; -moz-transform:translateX(-24vh) ; -ms-transform:translateX(-24vh) ; -o-transform:translateX(-24vh) ; }
+.transX--25{ transform:translateX(-25vh) ; -webkit-transform:translateX(-25vh) ; -moz-transform:translateX(-25vh) ; -ms-transform:translateX(-25vh) ; -o-transform:translateX(-25vh) ; }
+.transX--26{ transform:translateX(-26vh) ; -webkit-transform:translateX(-26vh) ; -moz-transform:translateX(-26vh) ; -ms-transform:translateX(-26vh) ; -o-transform:translateX(-26vh) ; }
+.transX--27{ transform:translateX(-27vh) ; -webkit-transform:translateX(-27vh) ; -moz-transform:translateX(-27vh) ; -ms-transform:translateX(-27vh) ; -o-transform:translateX(-27vh) ; }
+.transX--28{ transform:translateX(-28vh) ; -webkit-transform:translateX(-28vh) ; -moz-transform:translateX(-28vh) ; -ms-transform:translateX(-28vh) ; -o-transform:translateX(-28vh) ; }
+.transX--29{ transform:translateX(-29vh) ; -webkit-transform:translateX(-29vh) ; -moz-transform:translateX(-29vh) ; -ms-transform:translateX(-29vh) ; -o-transform:translateX(-29vh) ; }
+
+.transX--30{ transform:translateX(-30vh) ; -webkit-transform:translateX(-30vh) ; -moz-transform:translateX(-30vh) ; -ms-transform:translateX(-30vh) ; -o-transform:translateX(-30vh) ; }
+.transX--31{ transform:translateX(-31vh) ; -webkit-transform:translateX(-31vh) ; -moz-transform:translateX(-31vh) ; -ms-transform:translateX(-31vh) ; -o-transform:translateX(-31vh) ; }
+.transX--32{ transform:translateX(-32vh) ; -webkit-transform:translateX(-32vh) ; -moz-transform:translateX(-32vh) ; -ms-transform:translateX(-32vh) ; -o-transform:translateX(-32vh) ; }
+.transX--33{ transform:translateX(-33vh) ; -webkit-transform:translateX(-33vh) ; -moz-transform:translateX(-33vh) ; -ms-transform:translateX(-33vh) ; -o-transform:translateX(-33vh) ; }
+.transX--34{ transform:translateX(-34vh) ; -webkit-transform:translateX(-34vh) ; -moz-transform:translateX(-34vh) ; -ms-transform:translateX(-34vh) ; -o-transform:translateX(-34vh) ; }
+.transX--35{ transform:translateX(-35vh) ; -webkit-transform:translateX(-35vh) ; -moz-transform:translateX(-35vh) ; -ms-transform:translateX(-35vh) ; -o-transform:translateX(-35vh) ; }
+.transX--36{ transform:translateX(-36vh) ; -webkit-transform:translateX(-36vh) ; -moz-transform:translateX(-36vh) ; -ms-transform:translateX(-36vh) ; -o-transform:translateX(-36vh) ; }
+.transX--37{ transform:translateX(-37vh) ; -webkit-transform:translateX(-37vh) ; -moz-transform:translateX(-37vh) ; -ms-transform:translateX(-37vh) ; -o-transform:translateX(-37vh) ; }
+.transX--38{ transform:translateX(-38vh) ; -webkit-transform:translateX(-38vh) ; -moz-transform:translateX(-38vh) ; -ms-transform:translateX(-38vh) ; -o-transform:translateX(-38vh) ; }
+.transX--39{ transform:translateX(-39vh) ; -webkit-transform:translateX(-39vh) ; -moz-transform:translateX(-39vh) ; -ms-transform:translateX(-39vh) ; -o-transform:translateX(-39vh) ; }
+
+.transX--40{ transform:translateX(-40vh) ; -webkit-transform:translateX(-40vh) ; -moz-transform:translateX(-40vh) ; -ms-transform:translateX(-40vh) ; -o-transform:translateX(-40vh) ; }
+.transX--41{ transform:translateX(-41vh) ; -webkit-transform:translateX(-41vh) ; -moz-transform:translateX(-41vh) ; -ms-transform:translateX(-41vh) ; -o-transform:translateX(-41vh) ; }
+.transX--42{ transform:translateX(-42vh) ; -webkit-transform:translateX(-42vh) ; -moz-transform:translateX(-42vh) ; -ms-transform:translateX(-42vh) ; -o-transform:translateX(-42vh) ; }
+.transX--43{ transform:translateX(-43vh) ; -webkit-transform:translateX(-43vh) ; -moz-transform:translateX(-43vh) ; -ms-transform:translateX(-43vh) ; -o-transform:translateX(-43vh) ; }
+.transX--44{ transform:translateX(-44vh) ; -webkit-transform:translateX(-44vh) ; -moz-transform:translateX(-44vh) ; -ms-transform:translateX(-44vh) ; -o-transform:translateX(-44vh) ; }
+.transX--45{ transform:translateX(-45vh) ; -webkit-transform:translateX(-45vh) ; -moz-transform:translateX(-45vh) ; -ms-transform:translateX(-45vh) ; -o-transform:translateX(-45vh) ; }
+.transX--46{ transform:translateX(-46vh) ; -webkit-transform:translateX(-46vh) ; -moz-transform:translateX(-46vh) ; -ms-transform:translateX(-46vh) ; -o-transform:translateX(-46vh) ; }
+.transX--47{ transform:translateX(-47vh) ; -webkit-transform:translateX(-47vh) ; -moz-transform:translateX(-47vh) ; -ms-transform:translateX(-47vh) ; -o-transform:translateX(-47vh) ; }
+.transX--48{ transform:translateX(-48vh) ; -webkit-transform:translateX(-48vh) ; -moz-transform:translateX(-48vh) ; -ms-transform:translateX(-48vh) ; -o-transform:translateX(-48vh) ; }
+.transX--49{ transform:translateX(-49vh) ; -webkit-transform:translateX(-49vh) ; -moz-transform:translateX(-49vh) ; -ms-transform:translateX(-49vh) ; -o-transform:translateX(-49vh) ; }
+
+.transX--50{ transform:translateX(-50vh) ; -webkit-transform:translateX(-50vh) ; -moz-transform:translateX(-50vh) ; -ms-transform:translateX(-50vh) ; -o-transform:translateX(-50vh) ; }
+.transX--51{ transform:translateX(-51vh) ; -webkit-transform:translateX(-51vh) ; -moz-transform:translateX(-51vh) ; -ms-transform:translateX(-51vh) ; -o-transform:translateX(-51vh) ; }
+.transX--52{ transform:translateX(-52vh) ; -webkit-transform:translateX(-52vh) ; -moz-transform:translateX(-52vh) ; -ms-transform:translateX(-52vh) ; -o-transform:translateX(-52vh) ; }
+.transX--53{ transform:translateX(-53vh) ; -webkit-transform:translateX(-53vh) ; -moz-transform:translateX(-53vh) ; -ms-transform:translateX(-53vh) ; -o-transform:translateX(-53vh) ; }
+.transX--54{ transform:translateX(-54vh) ; -webkit-transform:translateX(-54vh) ; -moz-transform:translateX(-54vh) ; -ms-transform:translateX(-54vh) ; -o-transform:translateX(-54vh) ; }
+.transX--55{ transform:translateX(-55vh) ; -webkit-transform:translateX(-55vh) ; -moz-transform:translateX(-55vh) ; -ms-transform:translateX(-55vh) ; -o-transform:translateX(-55vh) ; }
+.transX--56{ transform:translateX(-56vh) ; -webkit-transform:translateX(-56vh) ; -moz-transform:translateX(-56vh) ; -ms-transform:translateX(-56vh) ; -o-transform:translateX(-56vh) ; }
+.transX--57{ transform:translateX(-57vh) ; -webkit-transform:translateX(-57vh) ; -moz-transform:translateX(-57vh) ; -ms-transform:translateX(-57vh) ; -o-transform:translateX(-57vh) ; }
+.transX--58{ transform:translateX(-58vh) ; -webkit-transform:translateX(-58vh) ; -moz-transform:translateX(-58vh) ; -ms-transform:translateX(-58vh) ; -o-transform:translateX(-58vh) ; }
+.transX--59{ transform:translateX(-59vh) ; -webkit-transform:translateX(-59vh) ; -moz-transform:translateX(-59vh) ; -ms-transform:translateX(-59vh) ; -o-transform:translateX(-59vh) ; }
+
+.transX--60{ transform:translateX(-60vh) ; -webkit-transform:translateX(-60vh) ; -moz-transform:translateX(-60vh) ; -ms-transform:translateX(-60vh) ; -o-transform:translateX(-60vh) ; }
+.transX--61{ transform:translateX(-61vh) ; -webkit-transform:translateX(-61vh) ; -moz-transform:translateX(-61vh) ; -ms-transform:translateX(-61vh) ; -o-transform:translateX(-61vh) ; }
+.transX--62{ transform:translateX(-62vh) ; -webkit-transform:translateX(-62vh) ; -moz-transform:translateX(-62vh) ; -ms-transform:translateX(-62vh) ; -o-transform:translateX(-62vh) ; }
+.transX--63{ transform:translateX(-63vh) ; -webkit-transform:translateX(-63vh) ; -moz-transform:translateX(-63vh) ; -ms-transform:translateX(-63vh) ; -o-transform:translateX(-63vh) ; }
+.transX--64{ transform:translateX(-64vh) ; -webkit-transform:translateX(-64vh) ; -moz-transform:translateX(-64vh) ; -ms-transform:translateX(-64vh) ; -o-transform:translateX(-64vh) ; }
+.transX--65{ transform:translateX(-65vh) ; -webkit-transform:translateX(-65vh) ; -moz-transform:translateX(-65vh) ; -ms-transform:translateX(-65vh) ; -o-transform:translateX(-65vh) ; }
+.transX--66{ transform:translateX(-66vh) ; -webkit-transform:translateX(-66vh) ; -moz-transform:translateX(-66vh) ; -ms-transform:translateX(-66vh) ; -o-transform:translateX(-66vh) ; }
+.transX--67{ transform:translateX(-67vh) ; -webkit-transform:translateX(-67vh) ; -moz-transform:translateX(-67vh) ; -ms-transform:translateX(-67vh) ; -o-transform:translateX(-67vh) ; }
+.transX--68{ transform:translateX(-68vh) ; -webkit-transform:translateX(-68vh) ; -moz-transform:translateX(-68vh) ; -ms-transform:translateX(-68vh) ; -o-transform:translateX(-68vh) ; }
+.transX--69{ transform:translateX(-69vh) ; -webkit-transform:translateX(-69vh) ; -moz-transform:translateX(-69vh) ; -ms-transform:translateX(-69vh) ; -o-transform:translateX(-69vh) ; }
+
+
+.transX--70{ transform:translateX(-70vh) ; -webkit-transform:translateX(-70vh) ; -moz-transform:translateX(-70vh) ; -ms-transform:translateX(-70vh) ; -o-transform:translateX(-70vh) ; }
+.transX--71{ transform:translateX(-71vh) ; -webkit-transform:translateX(-71vh) ; -moz-transform:translateX(-71vh) ; -ms-transform:translateX(-71vh) ; -o-transform:translateX(-71vh) ; }
+.transX--72{ transform:translateX(-72vh) ; -webkit-transform:translateX(-72vh) ; -moz-transform:translateX(-72vh) ; -ms-transform:translateX(-72vh) ; -o-transform:translateX(-72vh) ; }
+.transX--73{ transform:translateX(-73vh) ; -webkit-transform:translateX(-73vh) ; -moz-transform:translateX(-73vh) ; -ms-transform:translateX(-73vh) ; -o-transform:translateX(-73vh) ; }
+.transX--74{ transform:translateX(-74vh) ; -webkit-transform:translateX(-74vh) ; -moz-transform:translateX(-74vh) ; -ms-transform:translateX(-74vh) ; -o-transform:translateX(-74vh) ; }
+.transX--75{ transform:translateX(-75vh) ; -webkit-transform:translateX(-75vh) ; -moz-transform:translateX(-75vh) ; -ms-transform:translateX(-75vh) ; -o-transform:translateX(-75vh) ; }
+.transX--76{ transform:translateX(-76vh) ; -webkit-transform:translateX(-76vh) ; -moz-transform:translateX(-76vh) ; -ms-transform:translateX(-76vh) ; -o-transform:translateX(-76vh) ; }
+.transX--77{ transform:translateX(-77vh) ; -webkit-transform:translateX(-77vh) ; -moz-transform:translateX(-77vh) ; -ms-transform:translateX(-77vh) ; -o-transform:translateX(-77vh) ; }
+.transX--78{ transform:translateX(-78vh) ; -webkit-transform:translateX(-78vh) ; -moz-transform:translateX(-78vh) ; -ms-transform:translateX(-78vh) ; -o-transform:translateX(-78vh) ; }
+.transX--79{ transform:translateX(-79vh) ; -webkit-transform:translateX(-79vh) ; -moz-transform:translateX(-79vh) ; -ms-transform:translateX(-79vh) ; -o-transform:translateX(-79vh) ; }
+
+
+.transX--80{ transform:translateX(-80vh) ; -webkit-transform:translateX(-80vh) ; -moz-transform:translateX(-80vh) ; -ms-transform:translateX(-80vh) ; -o-transform:translateX(-80vh) ; }
+.transX--81{ transform:translateX(-81vh) ; -webkit-transform:translateX(-81vh) ; -moz-transform:translateX(-81vh) ; -ms-transform:translateX(-81vh) ; -o-transform:translateX(-81vh) ; }
+.transX--82{ transform:translateX(-82vh) ; -webkit-transform:translateX(-82vh) ; -moz-transform:translateX(-82vh) ; -ms-transform:translateX(-82vh) ; -o-transform:translateX(-82vh) ; }
+.transX--83{ transform:translateX(-83vh) ; -webkit-transform:translateX(-83vh) ; -moz-transform:translateX(-83vh) ; -ms-transform:translateX(-83vh) ; -o-transform:translateX(-83vh) ; }
+.transX--84{ transform:translateX(-84vh) ; -webkit-transform:translateX(-84vh) ; -moz-transform:translateX(-84vh) ; -ms-transform:translateX(-84vh) ; -o-transform:translateX(-84vh) ; }
+.transX--85{ transform:translateX(-85vh) ; -webkit-transform:translateX(-85vh) ; -moz-transform:translateX(-85vh) ; -ms-transform:translateX(-85vh) ; -o-transform:translateX(-85vh) ; }
+.transX--86{ transform:translateX(-86vh) ; -webkit-transform:translateX(-86vh) ; -moz-transform:translateX(-86vh) ; -ms-transform:translateX(-86vh) ; -o-transform:translateX(-86vh) ; }
+.transX--87{ transform:translateX(-87vh) ; -webkit-transform:translateX(-87vh) ; -moz-transform:translateX(-87vh) ; -ms-transform:translateX(-87vh) ; -o-transform:translateX(-87vh) ; }
+.transX--88{ transform:translateX(-88vh) ; -webkit-transform:translateX(-88vh) ; -moz-transform:translateX(-88vh) ; -ms-transform:translateX(-88vh) ; -o-transform:translateX(-88vh) ; }
+.transX--89{ transform:translateX(-89vh) ; -webkit-transform:translateX(-89vh) ; -moz-transform:translateX(-89vh) ; -ms-transform:translateX(-89vh) ; -o-transform:translateX(-89vh) ; }
+
+
+.transX--90{ transform:translateX(-90vh) ; -webkit-transform:translateX(-90vh) ; -moz-transform:translateX(-90vh) ; -ms-transform:translateX(-90vh) ; -o-transform:translateX(-90vh) ; }
+.transX--91{ transform:translateX(-91vh) ; -webkit-transform:translateX(-91vh) ; -moz-transform:translateX(-91vh) ; -ms-transform:translateX(-91vh) ; -o-transform:translateX(-91vh) ; }
+.transX--92{ transform:translateX(-92vh) ; -webkit-transform:translateX(-92vh) ; -moz-transform:translateX(-92vh) ; -ms-transform:translateX(-92vh) ; -o-transform:translateX(-92vh) ; }
+.transX--93{ transform:translateX(-93vh) ; -webkit-transform:translateX(-93vh) ; -moz-transform:translateX(-93vh) ; -ms-transform:translateX(-93vh) ; -o-transform:translateX(-93vh) ; }
+.transX--94{ transform:translateX(-94vh) ; -webkit-transform:translateX(-94vh) ; -moz-transform:translateX(-94vh) ; -ms-transform:translateX(-94vh) ; -o-transform:translateX(-94vh) ; }
+.transX--95{ transform:translateX(-95vh) ; -webkit-transform:translateX(-95vh) ; -moz-transform:translateX(-95vh) ; -ms-transform:translateX(-95vh) ; -o-transform:translateX(-95vh) ; }
+.transX--96{ transform:translateX(-96vh) ; -webkit-transform:translateX(-96vh) ; -moz-transform:translateX(-96vh) ; -ms-transform:translateX(-96vh) ; -o-transform:translateX(-96vh) ; }
+.transX--97{ transform:translateX(-97vh) ; -webkit-transform:translateX(-97vh) ; -moz-transform:translateX(-97vh) ; -ms-transform:translateX(-97vh) ; -o-transform:translateX(-97vh) ; }
+.transX--98{ transform:translateX(-98vh) ; -webkit-transform:translateX(-98vh) ; -moz-transform:translateX(-98vh) ; -ms-transform:translateX(-98vh) ; -o-transform:translateX(-98vh) ; }
+.transX--99{ transform:translateX(-99vh) ; -webkit-transform:translateX(-99vh) ; -moz-transform:translateX(-99vh) ; -ms-transform:translateX(-99vh) ; -o-transform:translateX(-99vh) ; }
+
+.transX--100{ transform:translateX(-100vh) ; -webkit-transform:translateX(-100vh) ; -moz-transform:translateX(-100vh) ; -ms-transform:translateX(-100vh) ; -o-transform:translateX(-100vh) ; }
+
+
+
+
+
+
+.transX-1{ transform:translateX(1vh); -webkit-transform:translateX(1vh); -moz-transform:translateX(1vh); -ms-transform:translateX(1vh); -o-transform:translateX(1vh); }
+.transX-2{ transform:translateX(2vh) ; -webkit-transform:translateX(2vh) ; -moz-transform:translateX(2vh) ; -ms-transform:translateX(2vh) ; -o-transform:translateX(2vh) ; }
+.transX-3{ transform:translateX(3vh) ; -webkit-transform:translateX(3vh) ; -moz-transform:translateX(3vh) ; -ms-transform:translateX(3vh) ; -o-transform:translateX(3vh) ; }
+.transX-4{ transform:translateX(4vh) ; -webkit-transform:translateX(4vh) ; -moz-transform:translateX(4vh) ; -ms-transform:translateX(4vh) ; -o-transform:translateX(4vh) ; }
+.transX-5{ transform:translateX(5vh) ; -webkit-transform:translateX(5vh) ; -moz-transform:translateX(5vh) ; -ms-transform:translateX(5vh) ; -o-transform:translateX(5vh) ; }
+.transX-6{ transform:translateX(6vh) ; -webkit-transform:translateX(6vh) ; -moz-transform:translateX(6vh) ; -ms-transform:translateX(6vh) ; -o-transform:translateX(6vh) ; }
+.transX-7{ transform:translateX(7vh) ; -webkit-transform:translateX(7vh) ; -moz-transform:translateX(7vh) ; -ms-transform:translateX(7vh) ; -o-transform:translateX(7vh) ; }
+.transX-8{ transform:translateX(8vh) ; -webkit-transform:translateX(8vh) ; -moz-transform:translateX(8vh) ; -ms-transform:translateX(8vh) ; -o-transform:translateX(8vh) ; }
+.transX-9{ transform:translateX(9vh) ; -webkit-transform:translateX(9vh) ; -moz-transform:translateX(9vh) ; -ms-transform:translateX(9vh) ; -o-transform:translateX(9vh) ; }
+.transX-10{ transform:translateX(10vh) ; -webkit-transform:translateX(10vh) ; -moz-transform:translateX(10vh) ; -ms-transform:translateX(10vh) ; -o-transform:translateX(10vh) ; }
+.transX-11{ transform:translateX(11vh) ; -webkit-transform:translateX(11vh) ; -moz-transform:translateX(11vh) ; -ms-transform:translateX(11vh) ; -o-transform:translateX(11vh) ; }
+.transX-12{ transform:translateX(12vh) ; -webkit-transform:translateX(12vh) ; -moz-transform:translateX(12vh) ; -ms-transform:translateX(12vh) ; -o-transform:translateX(12vh) ; }
+.transX-13{ transform:translateX(13vh) ; -webkit-transform:translateX(13vh) ; -moz-transform:translateX(13vh) ; -ms-transform:translateX(13vh) ; -o-transform:translateX(13vh) ; }
+.transX-14{ transform:translateX(14vh) ; -webkit-transform:translateX(14vh) ; -moz-transform:translateX(14vh) ; -ms-transform:translateX(14vh) ; -o-transform:translateX(14vh) ; }
+.transX-15{ transform:translateX(15vh) ; -webkit-transform:translateX(15vh) ; -moz-transform:translateX(15vh) ; -ms-transform:translateX(15vh) ; -o-transform:translateX(15vh) ; }
+.transX-16{ transform:translateX(16vh) ; -webkit-transform:translateX(16vh) ; -moz-transform:translateX(16vh) ; -ms-transform:translateX(16vh) ; -o-transform:translateX(16vh) ; }
+.transX-17{ transform:translateX(17vh) ; -webkit-transform:translateX(17vh) ; -moz-transform:translateX(17vh) ; -ms-transform:translateX(17vh) ; -o-transform:translateX(17vh) ; }
+.transX-18{ transform:translateX(18vh) ; -webkit-transform:translateX(18vh) ; -moz-transform:translateX(18vh) ; -ms-transform:translateX(18vh) ; -o-transform:translateX(18vh) ; }
+.transX-19{ transform:translateX(19vh) ; -webkit-transform:translateX(19vh) ; -moz-transform:translateX(19vh) ; -ms-transform:translateX(19vh) ; -o-transform:translateX(19vh) ; }
+
+.transX-20{ transform:translateX(20vh) ; -webkit-transform:translateX(20vh) ; -moz-transform:translateX(20vh) ; -ms-transform:translateX(20vh) ; -o-transform:translateX(20vh) ; }
+.transX-21{ transform:translateX(21vh) ; -webkit-transform:translateX(21vh) ; -moz-transform:translateX(21vh) ; -ms-transform:translateX(21vh) ; -o-transform:translateX(21vh) ; }
+.transX-22{ transform:translateX(22vh) ; -webkit-transform:translateX(22vh) ; -moz-transform:translateX(22vh) ; -ms-transform:translateX(22vh) ; -o-transform:translateX(22vh) ; }
+.transX-23{ transform:translateX(23vh) ; -webkit-transform:translateX(23vh) ; -moz-transform:translateX(23vh) ; -ms-transform:translateX(23vh) ; -o-transform:translateX(23vh) ; }
+.transX-24{ transform:translateX(24vh) ; -webkit-transform:translateX(24vh) ; -moz-transform:translateX(24vh) ; -ms-transform:translateX(24vh) ; -o-transform:translateX(24vh) ; }
+.transX-25{ transform:translateX(25vh) ; -webkit-transform:translateX(25vh) ; -moz-transform:translateX(25vh) ; -ms-transform:translateX(25vh) ; -o-transform:translateX(25vh) ; }
+.transX-26{ transform:translateX(26vh) ; -webkit-transform:translateX(26vh) ; -moz-transform:translateX(26vh) ; -ms-transform:translateX(26vh) ; -o-transform:translateX(26vh) ; }
+.transX-27{ transform:translateX(27vh) ; -webkit-transform:translateX(27vh) ; -moz-transform:translateX(27vh) ; -ms-transform:translateX(27vh) ; -o-transform:translateX(27vh) ; }
+.transX-28{ transform:translateX(28vh) ; -webkit-transform:translateX(28vh) ; -moz-transform:translateX(28vh) ; -ms-transform:translateX(28vh) ; -o-transform:translateX(28vh) ; }
+.transX-29{ transform:translateX(29vh) ; -webkit-transform:translateX(29vh) ; -moz-transform:translateX(29vh) ; -ms-transform:translateX(29vh) ; -o-transform:translateX(29vh) ; }
+
+.transX-30{ transform:translateX(30vh) ; -webkit-transform:translateX(30vh) ; -moz-transform:translateX(30vh) ; -ms-transform:translateX(30vh) ; -o-transform:translateX(30vh) ; }
+.transX-31{ transform:translateX(31vh) ; -webkit-transform:translateX(31vh) ; -moz-transform:translateX(31vh) ; -ms-transform:translateX(31vh) ; -o-transform:translateX(31vh) ; }
+.transX-32{ transform:translateX(32vh) ; -webkit-transform:translateX(32vh) ; -moz-transform:translateX(32vh) ; -ms-transform:translateX(32vh) ; -o-transform:translateX(32vh) ; }
+.transX-33{ transform:translateX(33vh) ; -webkit-transform:translateX(33vh) ; -moz-transform:translateX(33vh) ; -ms-transform:translateX(33vh) ; -o-transform:translateX(33vh) ; }
+.transX-34{ transform:translateX(34vh) ; -webkit-transform:translateX(34vh) ; -moz-transform:translateX(34vh) ; -ms-transform:translateX(34vh) ; -o-transform:translateX(34vh) ; }
+.transX-35{ transform:translateX(35vh) ; -webkit-transform:translateX(35vh) ; -moz-transform:translateX(35vh) ; -ms-transform:translateX(35vh) ; -o-transform:translateX(35vh) ; }
+.transX-36{ transform:translateX(36vh) ; -webkit-transform:translateX(36vh) ; -moz-transform:translateX(36vh) ; -ms-transform:translateX(36vh) ; -o-transform:translateX(36vh) ; }
+.transX-37{ transform:translateX(37vh) ; -webkit-transform:translateX(37vh) ; -moz-transform:translateX(37vh) ; -ms-transform:translateX(37vh) ; -o-transform:translateX(37vh) ; }
+.transX-38{ transform:translateX(38vh) ; -webkit-transform:translateX(38vh) ; -moz-transform:translateX(38vh) ; -ms-transform:translateX(38vh) ; -o-transform:translateX(38vh) ; }
+.transX-39{ transform:translateX(39vh) ; -webkit-transform:translateX(39vh) ; -moz-transform:translateX(39vh) ; -ms-transform:translateX(39vh) ; -o-transform:translateX(39vh) ; }
+
+.transX-40{ transform:translateX(40vh) ; -webkit-transform:translateX(40vh) ; -moz-transform:translateX(40vh) ; -ms-transform:translateX(40vh) ; -o-transform:translateX(40vh) ; }
+.transX-41{ transform:translateX(41vh) ; -webkit-transform:translateX(41vh) ; -moz-transform:translateX(41vh) ; -ms-transform:translateX(41vh) ; -o-transform:translateX(41vh) ; }
+.transX-42{ transform:translateX(42vh) ; -webkit-transform:translateX(42vh) ; -moz-transform:translateX(42vh) ; -ms-transform:translateX(42vh) ; -o-transform:translateX(42vh) ; }
+.transX-43{ transform:translateX(43vh) ; -webkit-transform:translateX(43vh) ; -moz-transform:translateX(43vh) ; -ms-transform:translateX(43vh) ; -o-transform:translateX(43vh) ; }
+.transX-44{ transform:translateX(44vh) ; -webkit-transform:translateX(44vh) ; -moz-transform:translateX(44vh) ; -ms-transform:translateX(44vh) ; -o-transform:translateX(44vh) ; }
+.transX-45{ transform:translateX(45vh) ; -webkit-transform:translateX(45vh) ; -moz-transform:translateX(45vh) ; -ms-transform:translateX(45vh) ; -o-transform:translateX(45vh) ; }
+.transX-46{ transform:translateX(46vh) ; -webkit-transform:translateX(46vh) ; -moz-transform:translateX(46vh) ; -ms-transform:translateX(46vh) ; -o-transform:translateX(46vh) ; }
+.transX-47{ transform:translateX(47vh) ; -webkit-transform:translateX(47vh) ; -moz-transform:translateX(47vh) ; -ms-transform:translateX(47vh) ; -o-transform:translateX(47vh) ; }
+.transX-48{ transform:translateX(48vh) ; -webkit-transform:translateX(48vh) ; -moz-transform:translateX(48vh) ; -ms-transform:translateX(48vh) ; -o-transform:translateX(48vh) ; }
+.transX-49{ transform:translateX(49vh) ; -webkit-transform:translateX(49vh) ; -moz-transform:translateX(49vh) ; -ms-transform:translateX(49vh) ; -o-transform:translateX(49vh) ; }
+
+.transX-50{ transform:translateX(50vh) ; -webkit-transform:translateX(50vh) ; -moz-transform:translateX(50vh) ; -ms-transform:translateX(50vh) ; -o-transform:translateX(50vh) ; }
+.transX-51{ transform:translateX(51vh) ; -webkit-transform:translateX(51vh) ; -moz-transform:translateX(51vh) ; -ms-transform:translateX(51vh) ; -o-transform:translateX(51vh) ; }
+.transX-52{ transform:translateX(52vh) ; -webkit-transform:translateX(52vh) ; -moz-transform:translateX(52vh) ; -ms-transform:translateX(52vh) ; -o-transform:translateX(52vh) ; }
+.transX-53{ transform:translateX(53vh) ; -webkit-transform:translateX(53vh) ; -moz-transform:translateX(53vh) ; -ms-transform:translateX(53vh) ; -o-transform:translateX(53vh) ; }
+.transX-54{ transform:translateX(54vh) ; -webkit-transform:translateX(54vh) ; -moz-transform:translateX(54vh) ; -ms-transform:translateX(54vh) ; -o-transform:translateX(54vh) ; }
+.transX-55{ transform:translateX(55vh) ; -webkit-transform:translateX(55vh) ; -moz-transform:translateX(55vh) ; -ms-transform:translateX(55vh) ; -o-transform:translateX(55vh) ; }
+.transX-56{ transform:translateX(56vh) ; -webkit-transform:translateX(56vh) ; -moz-transform:translateX(56vh) ; -ms-transform:translateX(56vh) ; -o-transform:translateX(56vh) ; }
+.transX-57{ transform:translateX(57vh) ; -webkit-transform:translateX(57vh) ; -moz-transform:translateX(57vh) ; -ms-transform:translateX(57vh) ; -o-transform:translateX(57vh) ; }
+.transX-58{ transform:translateX(58vh) ; -webkit-transform:translateX(58vh) ; -moz-transform:translateX(58vh) ; -ms-transform:translateX(58vh) ; -o-transform:translateX(58vh) ; }
+.transX-59{ transform:translateX(59vh) ; -webkit-transform:translateX(59vh) ; -moz-transform:translateX(59vh) ; -ms-transform:translateX(59vh) ; -o-transform:translateX(59vh) ; }
+
+.transX-60{ transform:translateX(60vh) ; -webkit-transform:translateX(60vh) ; -moz-transform:translateX(60vh) ; -ms-transform:translateX(60vh) ; -o-transform:translateX(60vh) ; }
+.transX-61{ transform:translateX(61vh) ; -webkit-transform:translateX(61vh) ; -moz-transform:translateX(61vh) ; -ms-transform:translateX(61vh) ; -o-transform:translateX(61vh) ; }
+.transX-62{ transform:translateX(62vh) ; -webkit-transform:translateX(62vh) ; -moz-transform:translateX(62vh) ; -ms-transform:translateX(62vh) ; -o-transform:translateX(62vh) ; }
+.transX-63{ transform:translateX(63vh) ; -webkit-transform:translateX(63vh) ; -moz-transform:translateX(63vh) ; -ms-transform:translateX(63vh) ; -o-transform:translateX(63vh) ; }
+.transX-64{ transform:translateX(64vh) ; -webkit-transform:translateX(64vh) ; -moz-transform:translateX(64vh) ; -ms-transform:translateX(64vh) ; -o-transform:translateX(64vh) ; }
+.transX-65{ transform:translateX(65vh) ; -webkit-transform:translateX(65vh) ; -moz-transform:translateX(65vh) ; -ms-transform:translateX(65vh) ; -o-transform:translateX(65vh) ; }
+.transX-66{ transform:translateX(66vh) ; -webkit-transform:translateX(66vh) ; -moz-transform:translateX(66vh) ; -ms-transform:translateX(66vh) ; -o-transform:translateX(66vh) ; }
+.transX-67{ transform:translateX(67vh) ; -webkit-transform:translateX(67vh) ; -moz-transform:translateX(67vh) ; -ms-transform:translateX(67vh) ; -o-transform:translateX(67vh) ; }
+.transX-68{ transform:translateX(68vh) ; -webkit-transform:translateX(68vh) ; -moz-transform:translateX(68vh) ; -ms-transform:translateX(68vh) ; -o-transform:translateX(68vh) ; }
+.transX-69{ transform:translateX(69vh) ; -webkit-transform:translateX(69vh) ; -moz-transform:translateX(69vh) ; -ms-transform:translateX(69vh) ; -o-transform:translateX(69vh) ; }
+
+
+.transX-70{ transform:translateX(70vh) ; -webkit-transform:translateX(70vh) ; -moz-transform:translateX(70vh) ; -ms-transform:translateX(70vh) ; -o-transform:translateX(70vh) ; }
+.transX-71{ transform:translateX(71vh) ; -webkit-transform:translateX(71vh) ; -moz-transform:translateX(71vh) ; -ms-transform:translateX(71vh) ; -o-transform:translateX(71vh) ; }
+.transX-72{ transform:translateX(72vh) ; -webkit-transform:translateX(72vh) ; -moz-transform:translateX(72vh) ; -ms-transform:translateX(72vh) ; -o-transform:translateX(72vh) ; }
+.transX-73{ transform:translateX(73vh) ; -webkit-transform:translateX(73vh) ; -moz-transform:translateX(73vh) ; -ms-transform:translateX(73vh) ; -o-transform:translateX(73vh) ; }
+.transX-74{ transform:translateX(74vh) ; -webkit-transform:translateX(74vh) ; -moz-transform:translateX(74vh) ; -ms-transform:translateX(74vh) ; -o-transform:translateX(74vh) ; }
+.transX-75{ transform:translateX(75vh) ; -webkit-transform:translateX(75vh) ; -moz-transform:translateX(75vh) ; -ms-transform:translateX(75vh) ; -o-transform:translateX(75vh) ; }
+.transX-76{ transform:translateX(76vh) ; -webkit-transform:translateX(76vh) ; -moz-transform:translateX(76vh) ; -ms-transform:translateX(76vh) ; -o-transform:translateX(76vh) ; }
+.transX-77{ transform:translateX(77vh) ; -webkit-transform:translateX(77vh) ; -moz-transform:translateX(77vh) ; -ms-transform:translateX(77vh) ; -o-transform:translateX(77vh) ; }
+.transX-78{ transform:translateX(78vh) ; -webkit-transform:translateX(78vh) ; -moz-transform:translateX(78vh) ; -ms-transform:translateX(78vh) ; -o-transform:translateX(78vh) ; }
+.transX-79{ transform:translateX(79vh) ; -webkit-transform:translateX(79vh) ; -moz-transform:translateX(79vh) ; -ms-transform:translateX(79vh) ; -o-transform:translateX(79vh) ; }
+
+
+.transX-80{ transform:translateX(80vh) ; -webkit-transform:translateX(80vh) ; -moz-transform:translateX(80vh) ; -ms-transform:translateX(80vh) ; -o-transform:translateX(80vh) ; }
+.transX-81{ transform:translateX(81vh) ; -webkit-transform:translateX(81vh) ; -moz-transform:translateX(81vh) ; -ms-transform:translateX(81vh) ; -o-transform:translateX(81vh) ; }
+.transX-82{ transform:translateX(82vh) ; -webkit-transform:translateX(82vh) ; -moz-transform:translateX(82vh) ; -ms-transform:translateX(82vh) ; -o-transform:translateX(82vh) ; }
+.transX-83{ transform:translateX(83vh) ; -webkit-transform:translateX(83vh) ; -moz-transform:translateX(83vh) ; -ms-transform:translateX(83vh) ; -o-transform:translateX(83vh) ; }
+.transX-84{ transform:translateX(84vh) ; -webkit-transform:translateX(84vh) ; -moz-transform:translateX(84vh) ; -ms-transform:translateX(84vh) ; -o-transform:translateX(84vh) ; }
+.transX-85{ transform:translateX(85vh) ; -webkit-transform:translateX(85vh) ; -moz-transform:translateX(85vh) ; -ms-transform:translateX(85vh) ; -o-transform:translateX(85vh) ; }
+.transX-86{ transform:translateX(86vh) ; -webkit-transform:translateX(86vh) ; -moz-transform:translateX(86vh) ; -ms-transform:translateX(86vh) ; -o-transform:translateX(86vh) ; }
+.transX-87{ transform:translateX(87vh) ; -webkit-transform:translateX(87vh) ; -moz-transform:translateX(87vh) ; -ms-transform:translateX(87vh) ; -o-transform:translateX(87vh) ; }
+.transX-88{ transform:translateX(88vh) ; -webkit-transform:translateX(88vh) ; -moz-transform:translateX(88vh) ; -ms-transform:translateX(88vh) ; -o-transform:translateX(88vh) ; }
+.transX-89{ transform:translateX(89vh) ; -webkit-transform:translateX(89vh) ; -moz-transform:translateX(89vh) ; -ms-transform:translateX(89vh) ; -o-transform:translateX(89vh) ; }
+
+
+.transX-90{ transform:translateX(90vh) ; -webkit-transform:translateX(90vh) ; -moz-transform:translateX(90vh) ; -ms-transform:translateX(90vh) ; -o-transform:translateX(90vh) ; }
+.transX-91{ transform:translateX(91vh) ; -webkit-transform:translateX(91vh) ; -moz-transform:translateX(91vh) ; -ms-transform:translateX(91vh) ; -o-transform:translateX(91vh) ; }
+.transX-92{ transform:translateX(92vh) ; -webkit-transform:translateX(92vh) ; -moz-transform:translateX(92vh) ; -ms-transform:translateX(92vh) ; -o-transform:translateX(92vh) ; }
+.transX-93{ transform:translateX(93vh) ; -webkit-transform:translateX(93vh) ; -moz-transform:translateX(93vh) ; -ms-transform:translateX(93vh) ; -o-transform:translateX(93vh) ; }
+.transX-94{ transform:translateX(94vh) ; -webkit-transform:translateX(94vh) ; -moz-transform:translateX(94vh) ; -ms-transform:translateX(94vh) ; -o-transform:translateX(94vh) ; }
+.transX-95{ transform:translateX(95vh) ; -webkit-transform:translateX(95vh) ; -moz-transform:translateX(95vh) ; -ms-transform:translateX(95vh) ; -o-transform:translateX(95vh) ; }
+.transX-96{ transform:translateX(96vh) ; -webkit-transform:translateX(96vh) ; -moz-transform:translateX(96vh) ; -ms-transform:translateX(96vh) ; -o-transform:translateX(96vh) ; }
+.transX-97{ transform:translateX(97vh) ; -webkit-transform:translateX(97vh) ; -moz-transform:translateX(97vh) ; -ms-transform:translateX(97vh) ; -o-transform:translateX(97vh) ; }
+.transX-98{ transform:translateX(98vh) ; -webkit-transform:translateX(98vh) ; -moz-transform:translateX(98vh) ; -ms-transform:translateX(98vh) ; -o-transform:translateX(98vh) ; }
+.transX-99{ transform:translateX(99vh) ; -webkit-transform:translateX(99vh) ; -moz-transform:translateX(99vh) ; -ms-transform:translateX(99vh) ; -o-transform:translateX(99vh) ; }
+
+.transX-100{ transform:translateX(100vh) ; -webkit-transform:translateX(100vh) ; -moz-transform:translateX(100vh) ; -ms-transform:translateX(100vh) ; -o-transform:translateX(100vh) ; }
+
+
+
+/* transY ---------- */
+
+
+
+
+.transY--1{ transform:translateY(-1vh); -webkit-transform:translateY(-1vh); -moz-transform:translateY(-1vh); -ms-transform:translateY(-1vh); -o-transform:translateY(-1vh); }
+.transY--2{ transform:translateY(-2vh) ; -webkit-transform:translateY(-2vh) ; -moz-transform:translateY(-2vh) ; -ms-transform:translateY(-2vh) ; -o-transform:translateY(-2vh) ; }
+.transY--3{ transform:translateY(-3vh) ; -webkit-transform:translateY(-3vh) ; -moz-transform:translateY(-3vh) ; -ms-transform:translateY(-3vh) ; -o-transform:translateY(-3vh) ; }
+.transY--4{ transform:translateY(-4vh) ; -webkit-transform:translateY(-4vh) ; -moz-transform:translateY(-4vh) ; -ms-transform:translateY(-4vh) ; -o-transform:translateY(-4vh) ; }
+.transY--5{ transform:translateY(-5vh) ; -webkit-transform:translateY(-5vh) ; -moz-transform:translateY(-5vh) ; -ms-transform:translateY(-5vh) ; -o-transform:translateY(-5vh) ; }
+.transY--6{ transform:translateY(-6vh) ; -webkit-transform:translateY(-6vh) ; -moz-transform:translateY(-6vh) ; -ms-transform:translateY(-6vh) ; -o-transform:translateY(-6vh) ; }
+.transY--7{ transform:translateY(-7vh) ; -webkit-transform:translateY(-7vh) ; -moz-transform:translateY(-7vh) ; -ms-transform:translateY(-7vh) ; -o-transform:translateY(-7vh) ; }
+.transY--8{ transform:translateY(-8vh) ; -webkit-transform:translateY(-8vh) ; -moz-transform:translateY(-8vh) ; -ms-transform:translateY(-8vh) ; -o-transform:translateY(-8vh) ; }
+.transY--9{ transform:translateY(-9vh) ; -webkit-transform:translateY(-9vh) ; -moz-transform:translateY(-9vh) ; -ms-transform:translateY(-9vh) ; -o-transform:translateY(-9vh) ; }
+.transY--10{ transform:translateY(-10vh) ; -webkit-transform:translateY(-10vh) ; -moz-transform:translateY(-10vh) ; -ms-transform:translateY(-10vh) ; -o-transform:translateY(-10vh) ; }
+.transY--11{ transform:translateY(-11vh) ; -webkit-transform:translateY(-11vh) ; -moz-transform:translateY(-11vh) ; -ms-transform:translateY(-11vh) ; -o-transform:translateY(-11vh) ; }
+.transY--12{ transform:translateY(-12vh) ; -webkit-transform:translateY(-12vh) ; -moz-transform:translateY(-12vh) ; -ms-transform:translateY(-12vh) ; -o-transform:translateY(-12vh) ; }
+.transY--13{ transform:translateY(-13vh) ; -webkit-transform:translateY(-13vh) ; -moz-transform:translateY(-13vh) ; -ms-transform:translateY(-13vh) ; -o-transform:translateY(-13vh) ; }
+.transY--14{ transform:translateY(-14vh) ; -webkit-transform:translateY(-14vh) ; -moz-transform:translateY(-14vh) ; -ms-transform:translateY(-14vh) ; -o-transform:translateY(-14vh) ; }
+.transY--15{ transform:translateY(-15vh) ; -webkit-transform:translateY(-15vh) ; -moz-transform:translateY(-15vh) ; -ms-transform:translateY(-15vh) ; -o-transform:translateY(-15vh) ; }
+.transY--16{ transform:translateY(-16vh) ; -webkit-transform:translateY(-16vh) ; -moz-transform:translateY(-16vh) ; -ms-transform:translateY(-16vh) ; -o-transform:translateY(-16vh) ; }
+.transY--17{ transform:translateY(-17vh) ; -webkit-transform:translateY(-17vh) ; -moz-transform:translateY(-17vh) ; -ms-transform:translateY(-17vh) ; -o-transform:translateY(-17vh) ; }
+.transY--18{ transform:translateY(-18vh) ; -webkit-transform:translateY(-18vh) ; -moz-transform:translateY(-18vh) ; -ms-transform:translateY(-18vh) ; -o-transform:translateY(-18vh) ; }
+.transY--19{ transform:translateY(-19vh) ; -webkit-transform:translateY(-19vh) ; -moz-transform:translateY(-19vh) ; -ms-transform:translateY(-19vh) ; -o-transform:translateY(-19vh) ; }
+
+.transY--20{ transform:translateY(-20vh) ; -webkit-transform:translateY(-20vh) ; -moz-transform:translateY(-20vh) ; -ms-transform:translateY(-20vh) ; -o-transform:translateY(-20vh) ; }
+.transY--21{ transform:translateY(-21vh) ; -webkit-transform:translateY(-21vh) ; -moz-transform:translateY(-21vh) ; -ms-transform:translateY(-21vh) ; -o-transform:translateY(-21vh) ; }
+.transY--22{ transform:translateY(-22vh) ; -webkit-transform:translateY(-22vh) ; -moz-transform:translateY(-22vh) ; -ms-transform:translateY(-22vh) ; -o-transform:translateY(-22vh) ; }
+.transY--23{ transform:translateY(-23vh) ; -webkit-transform:translateY(-23vh) ; -moz-transform:translateY(-23vh) ; -ms-transform:translateY(-23vh) ; -o-transform:translateY(-23vh) ; }
+.transY--24{ transform:translateY(-24vh) ; -webkit-transform:translateY(-24vh) ; -moz-transform:translateY(-24vh) ; -ms-transform:translateY(-24vh) ; -o-transform:translateY(-24vh) ; }
+.transY--25{ transform:translateY(-25vh) ; -webkit-transform:translateY(-25vh) ; -moz-transform:translateY(-25vh) ; -ms-transform:translateY(-25vh) ; -o-transform:translateY(-25vh) ; }
+.transY--26{ transform:translateY(-26vh) ; -webkit-transform:translateY(-26vh) ; -moz-transform:translateY(-26vh) ; -ms-transform:translateY(-26vh) ; -o-transform:translateY(-26vh) ; }
+.transY--27{ transform:translateY(-27vh) ; -webkit-transform:translateY(-27vh) ; -moz-transform:translateY(-27vh) ; -ms-transform:translateY(-27vh) ; -o-transform:translateY(-27vh) ; }
+.transY--28{ transform:translateY(-28vh) ; -webkit-transform:translateY(-28vh) ; -moz-transform:translateY(-28vh) ; -ms-transform:translateY(-28vh) ; -o-transform:translateY(-28vh) ; }
+.transY--29{ transform:translateY(-29vh) ; -webkit-transform:translateY(-29vh) ; -moz-transform:translateY(-29vh) ; -ms-transform:translateY(-29vh) ; -o-transform:translateY(-29vh) ; }
+
+.transY--30{ transform:translateY(-30vh) ; -webkit-transform:translateY(-30vh) ; -moz-transform:translateY(-30vh) ; -ms-transform:translateY(-30vh) ; -o-transform:translateY(-30vh) ; }
+.transY--31{ transform:translateY(-31vh) ; -webkit-transform:translateY(-31vh) ; -moz-transform:translateY(-31vh) ; -ms-transform:translateY(-31vh) ; -o-transform:translateY(-31vh) ; }
+.transY--32{ transform:translateY(-32vh) ; -webkit-transform:translateY(-32vh) ; -moz-transform:translateY(-32vh) ; -ms-transform:translateY(-32vh) ; -o-transform:translateY(-32vh) ; }
+.transY--33{ transform:translateY(-33vh) ; -webkit-transform:translateY(-33vh) ; -moz-transform:translateY(-33vh) ; -ms-transform:translateY(-33vh) ; -o-transform:translateY(-33vh) ; }
+.transY--34{ transform:translateY(-34vh) ; -webkit-transform:translateY(-34vh) ; -moz-transform:translateY(-34vh) ; -ms-transform:translateY(-34vh) ; -o-transform:translateY(-34vh) ; }
+.transY--35{ transform:translateY(-35vh) ; -webkit-transform:translateY(-35vh) ; -moz-transform:translateY(-35vh) ; -ms-transform:translateY(-35vh) ; -o-transform:translateY(-35vh) ; }
+.transY--36{ transform:translateY(-36vh) ; -webkit-transform:translateY(-36vh) ; -moz-transform:translateY(-36vh) ; -ms-transform:translateY(-36vh) ; -o-transform:translateY(-36vh) ; }
+.transY--37{ transform:translateY(-37vh) ; -webkit-transform:translateY(-37vh) ; -moz-transform:translateY(-37vh) ; -ms-transform:translateY(-37vh) ; -o-transform:translateY(-37vh) ; }
+.transY--38{ transform:translateY(-38vh) ; -webkit-transform:translateY(-38vh) ; -moz-transform:translateY(-38vh) ; -ms-transform:translateY(-38vh) ; -o-transform:translateY(-38vh) ; }
+.transY--39{ transform:translateY(-39vh) ; -webkit-transform:translateY(-39vh) ; -moz-transform:translateY(-39vh) ; -ms-transform:translateY(-39vh) ; -o-transform:translateY(-39vh) ; }
+
+.transY--40{ transform:translateY(-40vh) ; -webkit-transform:translateY(-40vh) ; -moz-transform:translateY(-40vh) ; -ms-transform:translateY(-40vh) ; -o-transform:translateY(-40vh) ; }
+.transY--41{ transform:translateY(-41vh) ; -webkit-transform:translateY(-41vh) ; -moz-transform:translateY(-41vh) ; -ms-transform:translateY(-41vh) ; -o-transform:translateY(-41vh) ; }
+.transY--42{ transform:translateY(-42vh) ; -webkit-transform:translateY(-42vh) ; -moz-transform:translateY(-42vh) ; -ms-transform:translateY(-42vh) ; -o-transform:translateY(-42vh) ; }
+.transY--43{ transform:translateY(-43vh) ; -webkit-transform:translateY(-43vh) ; -moz-transform:translateY(-43vh) ; -ms-transform:translateY(-43vh) ; -o-transform:translateY(-43vh) ; }
+.transY--44{ transform:translateY(-44vh) ; -webkit-transform:translateY(-44vh) ; -moz-transform:translateY(-44vh) ; -ms-transform:translateY(-44vh) ; -o-transform:translateY(-44vh) ; }
+.transY--45{ transform:translateY(-45vh) ; -webkit-transform:translateY(-45vh) ; -moz-transform:translateY(-45vh) ; -ms-transform:translateY(-45vh) ; -o-transform:translateY(-45vh) ; }
+.transY--46{ transform:translateY(-46vh) ; -webkit-transform:translateY(-46vh) ; -moz-transform:translateY(-46vh) ; -ms-transform:translateY(-46vh) ; -o-transform:translateY(-46vh) ; }
+.transY--47{ transform:translateY(-47vh) ; -webkit-transform:translateY(-47vh) ; -moz-transform:translateY(-47vh) ; -ms-transform:translateY(-47vh) ; -o-transform:translateY(-47vh) ; }
+.transY--48{ transform:translateY(-48vh) ; -webkit-transform:translateY(-48vh) ; -moz-transform:translateY(-48vh) ; -ms-transform:translateY(-48vh) ; -o-transform:translateY(-48vh) ; }
+.transY--49{ transform:translateY(-49vh) ; -webkit-transform:translateY(-49vh) ; -moz-transform:translateY(-49vh) ; -ms-transform:translateY(-49vh) ; -o-transform:translateY(-49vh) ; }
+
+.transY--50{ transform:translateY(-50vh) ; -webkit-transform:translateY(-50vh) ; -moz-transform:translateY(-50vh) ; -ms-transform:translateY(-50vh) ; -o-transform:translateY(-50vh) ; }
+.transY--51{ transform:translateY(-51vh) ; -webkit-transform:translateY(-51vh) ; -moz-transform:translateY(-51vh) ; -ms-transform:translateY(-51vh) ; -o-transform:translateY(-51vh) ; }
+.transY--52{ transform:translateY(-52vh) ; -webkit-transform:translateY(-52vh) ; -moz-transform:translateY(-52vh) ; -ms-transform:translateY(-52vh) ; -o-transform:translateY(-52vh) ; }
+.transY--53{ transform:translateY(-53vh) ; -webkit-transform:translateY(-53vh) ; -moz-transform:translateY(-53vh) ; -ms-transform:translateY(-53vh) ; -o-transform:translateY(-53vh) ; }
+.transY--54{ transform:translateY(-54vh) ; -webkit-transform:translateY(-54vh) ; -moz-transform:translateY(-54vh) ; -ms-transform:translateY(-54vh) ; -o-transform:translateY(-54vh) ; }
+.transY--55{ transform:translateY(-55vh) ; -webkit-transform:translateY(-55vh) ; -moz-transform:translateY(-55vh) ; -ms-transform:translateY(-55vh) ; -o-transform:translateY(-55vh) ; }
+.transY--56{ transform:translateY(-56vh) ; -webkit-transform:translateY(-56vh) ; -moz-transform:translateY(-56vh) ; -ms-transform:translateY(-56vh) ; -o-transform:translateY(-56vh) ; }
+.transY--57{ transform:translateY(-57vh) ; -webkit-transform:translateY(-57vh) ; -moz-transform:translateY(-57vh) ; -ms-transform:translateY(-57vh) ; -o-transform:translateY(-57vh) ; }
+.transY--58{ transform:translateY(-58vh) ; -webkit-transform:translateY(-58vh) ; -moz-transform:translateY(-58vh) ; -ms-transform:translateY(-58vh) ; -o-transform:translateY(-58vh) ; }
+.transY--59{ transform:translateY(-59vh) ; -webkit-transform:translateY(-59vh) ; -moz-transform:translateY(-59vh) ; -ms-transform:translateY(-59vh) ; -o-transform:translateY(-59vh) ; }
+
+.transY--60{ transform:translateY(-60vh) ; -webkit-transform:translateY(-60vh) ; -moz-transform:translateY(-60vh) ; -ms-transform:translateY(-60vh) ; -o-transform:translateY(-60vh) ; }
+.transY--61{ transform:translateY(-61vh) ; -webkit-transform:translateY(-61vh) ; -moz-transform:translateY(-61vh) ; -ms-transform:translateY(-61vh) ; -o-transform:translateY(-61vh) ; }
+.transY--62{ transform:translateY(-62vh) ; -webkit-transform:translateY(-62vh) ; -moz-transform:translateY(-62vh) ; -ms-transform:translateY(-62vh) ; -o-transform:translateY(-62vh) ; }
+.transY--63{ transform:translateY(-63vh) ; -webkit-transform:translateY(-63vh) ; -moz-transform:translateY(-63vh) ; -ms-transform:translateY(-63vh) ; -o-transform:translateY(-63vh) ; }
+.transY--64{ transform:translateY(-64vh) ; -webkit-transform:translateY(-64vh) ; -moz-transform:translateY(-64vh) ; -ms-transform:translateY(-64vh) ; -o-transform:translateY(-64vh) ; }
+.transY--65{ transform:translateY(-65vh) ; -webkit-transform:translateY(-65vh) ; -moz-transform:translateY(-65vh) ; -ms-transform:translateY(-65vh) ; -o-transform:translateY(-65vh) ; }
+.transY--66{ transform:translateY(-66vh) ; -webkit-transform:translateY(-66vh) ; -moz-transform:translateY(-66vh) ; -ms-transform:translateY(-66vh) ; -o-transform:translateY(-66vh) ; }
+.transY--67{ transform:translateY(-67vh) ; -webkit-transform:translateY(-67vh) ; -moz-transform:translateY(-67vh) ; -ms-transform:translateY(-67vh) ; -o-transform:translateY(-67vh) ; }
+.transY--68{ transform:translateY(-68vh) ; -webkit-transform:translateY(-68vh) ; -moz-transform:translateY(-68vh) ; -ms-transform:translateY(-68vh) ; -o-transform:translateY(-68vh) ; }
+.transY--69{ transform:translateY(-69vh) ; -webkit-transform:translateY(-69vh) ; -moz-transform:translateY(-69vh) ; -ms-transform:translateY(-69vh) ; -o-transform:translateY(-69vh) ; }
+
+
+.transY--70{ transform:translateY(-70vh) ; -webkit-transform:translateY(-70vh) ; -moz-transform:translateY(-70vh) ; -ms-transform:translateY(-70vh) ; -o-transform:translateY(-70vh) ; }
+.transY--71{ transform:translateY(-71vh) ; -webkit-transform:translateY(-71vh) ; -moz-transform:translateY(-71vh) ; -ms-transform:translateY(-71vh) ; -o-transform:translateY(-71vh) ; }
+.transY--72{ transform:translateY(-72vh) ; -webkit-transform:translateY(-72vh) ; -moz-transform:translateY(-72vh) ; -ms-transform:translateY(-72vh) ; -o-transform:translateY(-72vh) ; }
+.transY--73{ transform:translateY(-73vh) ; -webkit-transform:translateY(-73vh) ; -moz-transform:translateY(-73vh) ; -ms-transform:translateY(-73vh) ; -o-transform:translateY(-73vh) ; }
+.transY--74{ transform:translateY(-74vh) ; -webkit-transform:translateY(-74vh) ; -moz-transform:translateY(-74vh) ; -ms-transform:translateY(-74vh) ; -o-transform:translateY(-74vh) ; }
+.transY--75{ transform:translateY(-75vh) ; -webkit-transform:translateY(-75vh) ; -moz-transform:translateY(-75vh) ; -ms-transform:translateY(-75vh) ; -o-transform:translateY(-75vh) ; }
+.transY--76{ transform:translateY(-76vh) ; -webkit-transform:translateY(-76vh) ; -moz-transform:translateY(-76vh) ; -ms-transform:translateY(-76vh) ; -o-transform:translateY(-76vh) ; }
+.transY--77{ transform:translateY(-77vh) ; -webkit-transform:translateY(-77vh) ; -moz-transform:translateY(-77vh) ; -ms-transform:translateY(-77vh) ; -o-transform:translateY(-77vh) ; }
+.transY--78{ transform:translateY(-78vh) ; -webkit-transform:translateY(-78vh) ; -moz-transform:translateY(-78vh) ; -ms-transform:translateY(-78vh) ; -o-transform:translateY(-78vh) ; }
+.transY--79{ transform:translateY(-79vh) ; -webkit-transform:translateY(-79vh) ; -moz-transform:translateY(-79vh) ; -ms-transform:translateY(-79vh) ; -o-transform:translateY(-79vh) ; }
+
+
+.transY--80{ transform:translateY(-80vh) ; -webkit-transform:translateY(-80vh) ; -moz-transform:translateY(-80vh) ; -ms-transform:translateY(-80vh) ; -o-transform:translateY(-80vh) ; }
+.transY--81{ transform:translateY(-81vh) ; -webkit-transform:translateY(-81vh) ; -moz-transform:translateY(-81vh) ; -ms-transform:translateY(-81vh) ; -o-transform:translateY(-81vh) ; }
+.transY--82{ transform:translateY(-82vh) ; -webkit-transform:translateY(-82vh) ; -moz-transform:translateY(-82vh) ; -ms-transform:translateY(-82vh) ; -o-transform:translateY(-82vh) ; }
+.transY--83{ transform:translateY(-83vh) ; -webkit-transform:translateY(-83vh) ; -moz-transform:translateY(-83vh) ; -ms-transform:translateY(-83vh) ; -o-transform:translateY(-83vh) ; }
+.transY--84{ transform:translateY(-84vh) ; -webkit-transform:translateY(-84vh) ; -moz-transform:translateY(-84vh) ; -ms-transform:translateY(-84vh) ; -o-transform:translateY(-84vh) ; }
+.transY--85{ transform:translateY(-85vh) ; -webkit-transform:translateY(-85vh) ; -moz-transform:translateY(-85vh) ; -ms-transform:translateY(-85vh) ; -o-transform:translateY(-85vh) ; }
+.transY--86{ transform:translateY(-86vh) ; -webkit-transform:translateY(-86vh) ; -moz-transform:translateY(-86vh) ; -ms-transform:translateY(-86vh) ; -o-transform:translateY(-86vh) ; }
+.transY--87{ transform:translateY(-87vh) ; -webkit-transform:translateY(-87vh) ; -moz-transform:translateY(-87vh) ; -ms-transform:translateY(-87vh) ; -o-transform:translateY(-87vh) ; }
+.transY--88{ transform:translateY(-88vh) ; -webkit-transform:translateY(-88vh) ; -moz-transform:translateY(-88vh) ; -ms-transform:translateY(-88vh) ; -o-transform:translateY(-88vh) ; }
+.transY--89{ transform:translateY(-89vh) ; -webkit-transform:translateY(-89vh) ; -moz-transform:translateY(-89vh) ; -ms-transform:translateY(-89vh) ; -o-transform:translateY(-89vh) ; }
+
+
+.transY--90{ transform:translateY(-90vh) ; -webkit-transform:translateY(-90vh) ; -moz-transform:translateY(-90vh) ; -ms-transform:translateY(-90vh) ; -o-transform:translateY(-90vh) ; }
+.transY--91{ transform:translateY(-91vh) ; -webkit-transform:translateY(-91vh) ; -moz-transform:translateY(-91vh) ; -ms-transform:translateY(-91vh) ; -o-transform:translateY(-91vh) ; }
+.transY--92{ transform:translateY(-92vh) ; -webkit-transform:translateY(-92vh) ; -moz-transform:translateY(-92vh) ; -ms-transform:translateY(-92vh) ; -o-transform:translateY(-92vh) ; }
+.transY--93{ transform:translateY(-93vh) ; -webkit-transform:translateY(-93vh) ; -moz-transform:translateY(-93vh) ; -ms-transform:translateY(-93vh) ; -o-transform:translateY(-93vh) ; }
+.transY--94{ transform:translateY(-94vh) ; -webkit-transform:translateY(-94vh) ; -moz-transform:translateY(-94vh) ; -ms-transform:translateY(-94vh) ; -o-transform:translateY(-94vh) ; }
+.transY--95{ transform:translateY(-95vh) ; -webkit-transform:translateY(-95vh) ; -moz-transform:translateY(-95vh) ; -ms-transform:translateY(-95vh) ; -o-transform:translateY(-95vh) ; }
+.transY--96{ transform:translateY(-96vh) ; -webkit-transform:translateY(-96vh) ; -moz-transform:translateY(-96vh) ; -ms-transform:translateY(-96vh) ; -o-transform:translateY(-96vh) ; }
+.transY--97{ transform:translateY(-97vh) ; -webkit-transform:translateY(-97vh) ; -moz-transform:translateY(-97vh) ; -ms-transform:translateY(-97vh) ; -o-transform:translateY(-97vh) ; }
+.transY--98{ transform:translateY(-98vh) ; -webkit-transform:translateY(-98vh) ; -moz-transform:translateY(-98vh) ; -ms-transform:translateY(-98vh) ; -o-transform:translateY(-98vh) ; }
+.transY--99{ transform:translateY(-99vh) ; -webkit-transform:translateY(-99vh) ; -moz-transform:translateY(-99vh) ; -ms-transform:translateY(-99vh) ; -o-transform:translateY(-99vh) ; }
+
+.transY--100{ transform:translateY(-100vh) ; -webkit-transform:translateY(-100vh) ; -moz-transform:translateY(-100vh) ; -ms-transform:translateY(-100vh) ; -o-transform:translateY(-100vh) ; }
+
+
+
+
+/* transY++++ */
+
+
+
+
+
+.transY-1{ transform:translateY(1vh); -webkit-transform:translateY(1vh); -moz-transform:translateY(1vh); -ms-transform:translateY(1vh); -o-transform:translateY(1vh); }
+.transY-2{ transform:translateY(2vh) ; -webkit-transform:translateY(2vh) ; -moz-transform:translateY(2vh) ; -ms-transform:translateY(2vh) ; -o-transform:translateY(2vh) ; }
+.transY-3{ transform:translateY(3vh) ; -webkit-transform:translateY(3vh) ; -moz-transform:translateY(3vh) ; -ms-transform:translateY(3vh) ; -o-transform:translateY(3vh) ; }
+.transY-4{ transform:translateY(4vh) ; -webkit-transform:translateY(4vh) ; -moz-transform:translateY(4vh) ; -ms-transform:translateY(4vh) ; -o-transform:translateY(4vh) ; }
+.transY-5{ transform:translateY(5vh) ; -webkit-transform:translateY(5vh) ; -moz-transform:translateY(5vh) ; -ms-transform:translateY(5vh) ; -o-transform:translateY(5vh) ; }
+.transY-6{ transform:translateY(6vh) ; -webkit-transform:translateY(6vh) ; -moz-transform:translateY(6vh) ; -ms-transform:translateY(6vh) ; -o-transform:translateY(6vh) ; }
+.transY-7{ transform:translateY(7vh) ; -webkit-transform:translateY(7vh) ; -moz-transform:translateY(7vh) ; -ms-transform:translateY(7vh) ; -o-transform:translateY(7vh) ; }
+.transY-8{ transform:translateY(8vh) ; -webkit-transform:translateY(8vh) ; -moz-transform:translateY(8vh) ; -ms-transform:translateY(8vh) ; -o-transform:translateY(8vh) ; }
+.transY-9{ transform:translateY(9vh) ; -webkit-transform:translateY(9vh) ; -moz-transform:translateY(9vh) ; -ms-transform:translateY(9vh) ; -o-transform:translateY(9vh) ; }
+.transY-10{ transform:translateY(10vh) ; -webkit-transform:translateY(10vh) ; -moz-transform:translateY(10vh) ; -ms-transform:translateY(10vh) ; -o-transform:translateY(10vh) ; }
+.transY-11{ transform:translateY(11vh) ; -webkit-transform:translateY(11vh) ; -moz-transform:translateY(11vh) ; -ms-transform:translateY(11vh) ; -o-transform:translateY(11vh) ; }
+.transY-12{ transform:translateY(12vh) ; -webkit-transform:translateY(12vh) ; -moz-transform:translateY(12vh) ; -ms-transform:translateY(12vh) ; -o-transform:translateY(12vh) ; }
+.transY-13{ transform:translateY(13vh) ; -webkit-transform:translateY(13vh) ; -moz-transform:translateY(13vh) ; -ms-transform:translateY(13vh) ; -o-transform:translateY(13vh) ; }
+.transY-14{ transform:translateY(14vh) ; -webkit-transform:translateY(14vh) ; -moz-transform:translateY(14vh) ; -ms-transform:translateY(14vh) ; -o-transform:translateY(14vh) ; }
+.transY-15{ transform:translateY(15vh) ; -webkit-transform:translateY(15vh) ; -moz-transform:translateY(15vh) ; -ms-transform:translateY(15vh) ; -o-transform:translateY(15vh) ; }
+.transY-16{ transform:translateY(16vh) ; -webkit-transform:translateY(16vh) ; -moz-transform:translateY(16vh) ; -ms-transform:translateY(16vh) ; -o-transform:translateY(16vh) ; }
+.transY-17{ transform:translateY(17vh) ; -webkit-transform:translateY(17vh) ; -moz-transform:translateY(17vh) ; -ms-transform:translateY(17vh) ; -o-transform:translateY(17vh) ; }
+.transY-18{ transform:translateY(18vh) ; -webkit-transform:translateY(18vh) ; -moz-transform:translateY(18vh) ; -ms-transform:translateY(18vh) ; -o-transform:translateY(18vh) ; }
+.transY-19{ transform:translateY(19vh) ; -webkit-transform:translateY(19vh) ; -moz-transform:translateY(19vh) ; -ms-transform:translateY(19vh) ; -o-transform:translateY(19vh) ; }
+
+.transY-20{ transform:translateY(20vh) ; -webkit-transform:translateY(20vh) ; -moz-transform:translateY(20vh) ; -ms-transform:translateY(20vh) ; -o-transform:translateY(20vh) ; }
+.transY-21{ transform:translateY(21vh) ; -webkit-transform:translateY(21vh) ; -moz-transform:translateY(21vh) ; -ms-transform:translateY(21vh) ; -o-transform:translateY(21vh) ; }
+.transY-22{ transform:translateY(22vh) ; -webkit-transform:translateY(22vh) ; -moz-transform:translateY(22vh) ; -ms-transform:translateY(22vh) ; -o-transform:translateY(22vh) ; }
+.transY-23{ transform:translateY(23vh) ; -webkit-transform:translateY(23vh) ; -moz-transform:translateY(23vh) ; -ms-transform:translateY(23vh) ; -o-transform:translateY(23vh) ; }
+.transY-24{ transform:translateY(24vh) ; -webkit-transform:translateY(24vh) ; -moz-transform:translateY(24vh) ; -ms-transform:translateY(24vh) ; -o-transform:translateY(24vh) ; }
+.transY-25{ transform:translateY(25vh) ; -webkit-transform:translateY(25vh) ; -moz-transform:translateY(25vh) ; -ms-transform:translateY(25vh) ; -o-transform:translateY(25vh) ; }
+.transY-26{ transform:translateY(26vh) ; -webkit-transform:translateY(26vh) ; -moz-transform:translateY(26vh) ; -ms-transform:translateY(26vh) ; -o-transform:translateY(26vh) ; }
+.transY-27{ transform:translateY(27vh) ; -webkit-transform:translateY(27vh) ; -moz-transform:translateY(27vh) ; -ms-transform:translateY(27vh) ; -o-transform:translateY(27vh) ; }
+.transY-28{ transform:translateY(28vh) ; -webkit-transform:translateY(28vh) ; -moz-transform:translateY(28vh) ; -ms-transform:translateY(28vh) ; -o-transform:translateY(28vh) ; }
+.transY-29{ transform:translateY(29vh) ; -webkit-transform:translateY(29vh) ; -moz-transform:translateY(29vh) ; -ms-transform:translateY(29vh) ; -o-transform:translateY(29vh) ; }
+
+.transY-30{ transform:translateY(30vh) ; -webkit-transform:translateY(30vh) ; -moz-transform:translateY(30vh) ; -ms-transform:translateY(30vh) ; -o-transform:translateY(30vh) ; }
+.transY-31{ transform:translateY(31vh) ; -webkit-transform:translateY(31vh) ; -moz-transform:translateY(31vh) ; -ms-transform:translateY(31vh) ; -o-transform:translateY(31vh) ; }
+.transY-32{ transform:translateY(32vh) ; -webkit-transform:translateY(32vh) ; -moz-transform:translateY(32vh) ; -ms-transform:translateY(32vh) ; -o-transform:translateY(32vh) ; }
+.transY-33{ transform:translateY(33vh) ; -webkit-transform:translateY(33vh) ; -moz-transform:translateY(33vh) ; -ms-transform:translateY(33vh) ; -o-transform:translateY(33vh) ; }
+.transY-34{ transform:translateY(34vh) ; -webkit-transform:translateY(34vh) ; -moz-transform:translateY(34vh) ; -ms-transform:translateY(34vh) ; -o-transform:translateY(34vh) ; }
+.transY-35{ transform:translateY(35vh) ; -webkit-transform:translateY(35vh) ; -moz-transform:translateY(35vh) ; -ms-transform:translateY(35vh) ; -o-transform:translateY(35vh) ; }
+.transY-36{ transform:translateY(36vh) ; -webkit-transform:translateY(36vh) ; -moz-transform:translateY(36vh) ; -ms-transform:translateY(36vh) ; -o-transform:translateY(36vh) ; }
+.transY-37{ transform:translateY(37vh) ; -webkit-transform:translateY(37vh) ; -moz-transform:translateY(37vh) ; -ms-transform:translateY(37vh) ; -o-transform:translateY(37vh) ; }
+.transY-38{ transform:translateY(38vh) ; -webkit-transform:translateY(38vh) ; -moz-transform:translateY(38vh) ; -ms-transform:translateY(38vh) ; -o-transform:translateY(38vh) ; }
+.transY-39{ transform:translateY(39vh) ; -webkit-transform:translateY(39vh) ; -moz-transform:translateY(39vh) ; -ms-transform:translateY(39vh) ; -o-transform:translateY(39vh) ; }
+
+.transY-40{ transform:translateY(40vh) ; -webkit-transform:translateY(40vh) ; -moz-transform:translateY(40vh) ; -ms-transform:translateY(40vh) ; -o-transform:translateY(40vh) ; }
+.transY-41{ transform:translateY(41vh) ; -webkit-transform:translateY(41vh) ; -moz-transform:translateY(41vh) ; -ms-transform:translateY(41vh) ; -o-transform:translateY(41vh) ; }
+.transY-42{ transform:translateY(42vh) ; -webkit-transform:translateY(42vh) ; -moz-transform:translateY(42vh) ; -ms-transform:translateY(42vh) ; -o-transform:translateY(42vh) ; }
+.transY-43{ transform:translateY(43vh) ; -webkit-transform:translateY(43vh) ; -moz-transform:translateY(43vh) ; -ms-transform:translateY(43vh) ; -o-transform:translateY(43vh) ; }
+.transY-44{ transform:translateY(44vh) ; -webkit-transform:translateY(44vh) ; -moz-transform:translateY(44vh) ; -ms-transform:translateY(44vh) ; -o-transform:translateY(44vh) ; }
+.transY-45{ transform:translateY(45vh) ; -webkit-transform:translateY(45vh) ; -moz-transform:translateY(45vh) ; -ms-transform:translateY(45vh) ; -o-transform:translateY(45vh) ; }
+.transY-46{ transform:translateY(46vh) ; -webkit-transform:translateY(46vh) ; -moz-transform:translateY(46vh) ; -ms-transform:translateY(46vh) ; -o-transform:translateY(46vh) ; }
+.transY-47{ transform:translateY(47vh) ; -webkit-transform:translateY(47vh) ; -moz-transform:translateY(47vh) ; -ms-transform:translateY(47vh) ; -o-transform:translateY(47vh) ; }
+.transY-48{ transform:translateY(48vh) ; -webkit-transform:translateY(48vh) ; -moz-transform:translateY(48vh) ; -ms-transform:translateY(48vh) ; -o-transform:translateY(48vh) ; }
+.transY-49{ transform:translateY(49vh) ; -webkit-transform:translateY(49vh) ; -moz-transform:translateY(49vh) ; -ms-transform:translateY(49vh) ; -o-transform:translateY(49vh) ; }
+
+.transY-50{ transform:translateY(50vh) ; -webkit-transform:translateY(50vh) ; -moz-transform:translateY(50vh) ; -ms-transform:translateY(50vh) ; -o-transform:translateY(50vh) ; }
+.transY-51{ transform:translateY(51vh) ; -webkit-transform:translateY(51vh) ; -moz-transform:translateY(51vh) ; -ms-transform:translateY(51vh) ; -o-transform:translateY(51vh) ; }
+.transY-52{ transform:translateY(52vh) ; -webkit-transform:translateY(52vh) ; -moz-transform:translateY(52vh) ; -ms-transform:translateY(52vh) ; -o-transform:translateY(52vh) ; }
+.transY-53{ transform:translateY(53vh) ; -webkit-transform:translateY(53vh) ; -moz-transform:translateY(53vh) ; -ms-transform:translateY(53vh) ; -o-transform:translateY(53vh) ; }
+.transY-54{ transform:translateY(54vh) ; -webkit-transform:translateY(54vh) ; -moz-transform:translateY(54vh) ; -ms-transform:translateY(54vh) ; -o-transform:translateY(54vh) ; }
+.transY-55{ transform:translateY(55vh) ; -webkit-transform:translateY(55vh) ; -moz-transform:translateY(55vh) ; -ms-transform:translateY(55vh) ; -o-transform:translateY(55vh) ; }
+.transY-56{ transform:translateY(56vh) ; -webkit-transform:translateY(56vh) ; -moz-transform:translateY(56vh) ; -ms-transform:translateY(56vh) ; -o-transform:translateY(56vh) ; }
+.transY-57{ transform:translateY(57vh) ; -webkit-transform:translateY(57vh) ; -moz-transform:translateY(57vh) ; -ms-transform:translateY(57vh) ; -o-transform:translateY(57vh) ; }
+.transY-58{ transform:translateY(58vh) ; -webkit-transform:translateY(58vh) ; -moz-transform:translateY(58vh) ; -ms-transform:translateY(58vh) ; -o-transform:translateY(58vh) ; }
+.transY-59{ transform:translateY(59vh) ; -webkit-transform:translateY(59vh) ; -moz-transform:translateY(59vh) ; -ms-transform:translateY(59vh) ; -o-transform:translateY(59vh) ; }
+
+.transY-60{ transform:translateY(60vh) ; -webkit-transform:translateY(60vh) ; -moz-transform:translateY(60vh) ; -ms-transform:translateY(60vh) ; -o-transform:translateY(60vh) ; }
+.transY-61{ transform:translateY(61vh) ; -webkit-transform:translateY(61vh) ; -moz-transform:translateY(61vh) ; -ms-transform:translateY(61vh) ; -o-transform:translateY(61vh) ; }
+.transY-62{ transform:translateY(62vh) ; -webkit-transform:translateY(62vh) ; -moz-transform:translateY(62vh) ; -ms-transform:translateY(62vh) ; -o-transform:translateY(62vh) ; }
+.transY-63{ transform:translateY(63vh) ; -webkit-transform:translateY(63vh) ; -moz-transform:translateY(63vh) ; -ms-transform:translateY(63vh) ; -o-transform:translateY(63vh) ; }
+.transY-64{ transform:translateY(64vh) ; -webkit-transform:translateY(64vh) ; -moz-transform:translateY(64vh) ; -ms-transform:translateY(64vh) ; -o-transform:translateY(64vh) ; }
+.transY-65{ transform:translateY(65vh) ; -webkit-transform:translateY(65vh) ; -moz-transform:translateY(65vh) ; -ms-transform:translateY(65vh) ; -o-transform:translateY(65vh) ; }
+.transY-66{ transform:translateY(66vh) ; -webkit-transform:translateY(66vh) ; -moz-transform:translateY(66vh) ; -ms-transform:translateY(66vh) ; -o-transform:translateY(66vh) ; }
+.transY-67{ transform:translateY(67vh) ; -webkit-transform:translateY(67vh) ; -moz-transform:translateY(67vh) ; -ms-transform:translateY(67vh) ; -o-transform:translateY(67vh) ; }
+.transY-68{ transform:translateY(68vh) ; -webkit-transform:translateY(68vh) ; -moz-transform:translateY(68vh) ; -ms-transform:translateY(68vh) ; -o-transform:translateY(68vh) ; }
+.transY-69{ transform:translateY(69vh) ; -webkit-transform:translateY(69vh) ; -moz-transform:translateY(69vh) ; -ms-transform:translateY(69vh) ; -o-transform:translateY(69vh) ; }
+
+
+.transY-70{ transform:translateY(70vh) ; -webkit-transform:translateY(70vh) ; -moz-transform:translateY(70vh) ; -ms-transform:translateY(70vh) ; -o-transform:translateY(70vh) ; }
+.transY-71{ transform:translateY(71vh) ; -webkit-transform:translateY(71vh) ; -moz-transform:translateY(71vh) ; -ms-transform:translateY(71vh) ; -o-transform:translateY(71vh) ; }
+.transY-72{ transform:translateY(72vh) ; -webkit-transform:translateY(72vh) ; -moz-transform:translateY(72vh) ; -ms-transform:translateY(72vh) ; -o-transform:translateY(72vh) ; }
+.transY-73{ transform:translateY(73vh) ; -webkit-transform:translateY(73vh) ; -moz-transform:translateY(73vh) ; -ms-transform:translateY(73vh) ; -o-transform:translateY(73vh) ; }
+.transY-74{ transform:translateY(74vh) ; -webkit-transform:translateY(74vh) ; -moz-transform:translateY(74vh) ; -ms-transform:translateY(74vh) ; -o-transform:translateY(74vh) ; }
+.transY-75{ transform:translateY(75vh) ; -webkit-transform:translateY(75vh) ; -moz-transform:translateY(75vh) ; -ms-transform:translateY(75vh) ; -o-transform:translateY(75vh) ; }
+.transY-76{ transform:translateY(76vh) ; -webkit-transform:translateY(76vh) ; -moz-transform:translateY(76vh) ; -ms-transform:translateY(76vh) ; -o-transform:translateY(76vh) ; }
+.transY-77{ transform:translateY(77vh) ; -webkit-transform:translateY(77vh) ; -moz-transform:translateY(77vh) ; -ms-transform:translateY(77vh) ; -o-transform:translateY(77vh) ; }
+.transY-78{ transform:translateY(78vh) ; -webkit-transform:translateY(78vh) ; -moz-transform:translateY(78vh) ; -ms-transform:translateY(78vh) ; -o-transform:translateY(78vh) ; }
+.transY-79{ transform:translateY(79vh) ; -webkit-transform:translateY(79vh) ; -moz-transform:translateY(79vh) ; -ms-transform:translateY(79vh) ; -o-transform:translateY(79vh) ; }
+
+
+.transY-80{ transform:translateY(80vh) ; -webkit-transform:translateY(80vh) ; -moz-transform:translateY(80vh) ; -ms-transform:translateY(80vh) ; -o-transform:translateY(80vh) ; }
+.transY-81{ transform:translateY(81vh) ; -webkit-transform:translateY(81vh) ; -moz-transform:translateY(81vh) ; -ms-transform:translateY(81vh) ; -o-transform:translateY(81vh) ; }
+.transY-82{ transform:translateY(82vh) ; -webkit-transform:translateY(82vh) ; -moz-transform:translateY(82vh) ; -ms-transform:translateY(82vh) ; -o-transform:translateY(82vh) ; }
+.transY-83{ transform:translateY(83vh) ; -webkit-transform:translateY(83vh) ; -moz-transform:translateY(83vh) ; -ms-transform:translateY(83vh) ; -o-transform:translateY(83vh) ; }
+.transY-84{ transform:translateY(84vh) ; -webkit-transform:translateY(84vh) ; -moz-transform:translateY(84vh) ; -ms-transform:translateY(84vh) ; -o-transform:translateY(84vh) ; }
+.transY-85{ transform:translateY(85vh) ; -webkit-transform:translateY(85vh) ; -moz-transform:translateY(85vh) ; -ms-transform:translateY(85vh) ; -o-transform:translateY(85vh) ; }
+.transY-86{ transform:translateY(86vh) ; -webkit-transform:translateY(86vh) ; -moz-transform:translateY(86vh) ; -ms-transform:translateY(86vh) ; -o-transform:translateY(86vh) ; }
+.transY-87{ transform:translateY(87vh) ; -webkit-transform:translateY(87vh) ; -moz-transform:translateY(87vh) ; -ms-transform:translateY(87vh) ; -o-transform:translateY(87vh) ; }
+.transY-88{ transform:translateY(88vh) ; -webkit-transform:translateY(88vh) ; -moz-transform:translateY(88vh) ; -ms-transform:translateY(88vh) ; -o-transform:translateY(88vh) ; }
+.transY-89{ transform:translateY(89vh) ; -webkit-transform:translateY(89vh) ; -moz-transform:translateY(89vh) ; -ms-transform:translateY(89vh) ; -o-transform:translateY(89vh) ; }
+
+
+.transY-90{ transform:translateY(90vh) ; -webkit-transform:translateY(90vh) ; -moz-transform:translateY(90vh) ; -ms-transform:translateY(90vh) ; -o-transform:translateY(90vh) ; }
+.transY-91{ transform:translateY(91vh) ; -webkit-transform:translateY(91vh) ; -moz-transform:translateY(91vh) ; -ms-transform:translateY(91vh) ; -o-transform:translateY(91vh) ; }
+.transY-92{ transform:translateY(92vh) ; -webkit-transform:translateY(92vh) ; -moz-transform:translateY(92vh) ; -ms-transform:translateY(92vh) ; -o-transform:translateY(92vh) ; }
+.transY-93{ transform:translateY(93vh) ; -webkit-transform:translateY(93vh) ; -moz-transform:translateY(93vh) ; -ms-transform:translateY(93vh) ; -o-transform:translateY(93vh) ; }
+.transY-94{ transform:translateY(94vh) ; -webkit-transform:translateY(94vh) ; -moz-transform:translateY(94vh) ; -ms-transform:translateY(94vh) ; -o-transform:translateY(94vh) ; }
+.transY-95{ transform:translateY(95vh) ; -webkit-transform:translateY(95vh) ; -moz-transform:translateY(95vh) ; -ms-transform:translateY(95vh) ; -o-transform:translateY(95vh) ; }
+.transY-96{ transform:translateY(96vh) ; -webkit-transform:translateY(96vh) ; -moz-transform:translateY(96vh) ; -ms-transform:translateY(96vh) ; -o-transform:translateY(96vh) ; }
+.transY-97{ transform:translateY(97vh) ; -webkit-transform:translateY(97vh) ; -moz-transform:translateY(97vh) ; -ms-transform:translateY(97vh) ; -o-transform:translateY(97vh) ; }
+.transY-98{ transform:translateY(98vh) ; -webkit-transform:translateY(98vh) ; -moz-transform:translateY(98vh) ; -ms-transform:translateY(98vh) ; -o-transform:translateY(98vh) ; }
+.transY-99{ transform:translateY(99vh) ; -webkit-transform:translateY(99vh) ; -moz-transform:translateY(99vh) ; -ms-transform:translateY(99vh) ; -o-transform:translateY(99vh) ; }
+
+.transY-100{ transform:translateY(100vh) ; -webkit-transform:translateY(100vh) ; -moz-transform:translateY(100vh) ; -ms-transform:translateY(100vh) ; -o-transform:translateY(100vh) ; }
+
